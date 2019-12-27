@@ -1,0 +1,3614 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OWTranslation lang="German" translated="Deutsch">
+
+  <!--
+          HELLO AND THANK YOU FOR HELPING WITH THE TRANSLATION. BEFORE YOU CONTINUE PLEASE READ THE INSTRUCTIONS ON: 
+	 
+	 http://www.hristopavlov.net/OccultWatcher/Translation.html
+	 
+     -->
+	 
+   <!-- GENERAL -->
+
+  <T name="OK" 
+     english="OK" 
+     translated="OK" />
+  
+  <T name="CANCEL" 
+	 english="Cancel" 
+	 translated="Abbrechen" />
+	 
+  <T name="miles" 
+     english="miles" 
+	 translated="Meilen" />
+	 
+  <T name="km" 
+     english="km" 
+	 translated="km" />
+  
+  <T name="sec" 
+     english="sec" 
+	 translated="sek" />
+  
+  <T name="m" 
+     description="stellar magnitude"
+     english="m" 
+	 translated="m" />
+  
+  <T name="UT" 
+     english="UT" 
+	 translated="UT" />
+  
+  <T name="loc.time" 
+	 english="loc.time"
+	 translated="lokale Zeit" />
+  
+  <T name="EAST" 
+	 english="East" 
+	 translated="Ost" />
+  
+  <T name="WEST" 
+	 english="West" 
+	 translated="West" />
+  
+  <T name="NORTH" 
+	 english="North" 
+	 translated="Nord" />
+  
+  <T name="SOUTH" 
+	 english="South" 
+	 translated="Süd" />
+	 
+  <T name="north" 
+     description="Used on the GoogleMap to indicate is the position north or south of the center line"
+	 english="north" 
+	 translated="Nord" />
+  
+  <T name="south" 
+     description="Used on the GoogleMap to indicate is the position north or south of the center line"
+	 english="south" 
+	 translated="Süd" />	 
+	  
+  <!-- RESOURCES  -->
+  
+  <T name="MainForm.btnRunNow" 
+	 english="Synchronise now" 
+	 translated="Jetzt synchronisieren" />
+  
+  <T name="MainForm.btnConfiguration" 
+	 english="Configuration" 
+	 translated="Konfiguration" />
+  
+  <T name="MainForm.btnTools" 
+	 english="Add-ins" 
+	 translated="Add-ins" />
+  
+  <T name="MainForm.btnHelp" 
+	 english="Help" 
+	 translated="Hilfe" />
+  
+  <T name="MainForm.btnHelp.miHelpIndex" 
+	 english="Index" 
+	 translated="Index" />
+  
+  <T name="MainForm.btnHelp.miCheckForUpdates" 
+	 english="Check for updates" 
+	 translated="Nach Updates suchen" />
+  
+  <T name="MainForm.btnHelp.miLanguage" 
+	 english="Language" 
+	 translated="Sprache" />
+  
+  <T name="MainForm.btnHelp.miIOTA" 
+	 english="IOTA Web Site" 
+	 translated="IOTA Webseite" />
+  
+  <T name="MainForm.btnHelp.miAbout" 
+	 english="About Occult Watcher" 
+	 translated="Über Occult Watcher" />
+  
+  <T name="MainForm.msgGeoCoord" 
+	 english="Please enter the geographical coordinates of your site." 
+	 translated="Bitte geben Sie Ihre geografischen Koordinaten ein:" />
+  
+  <T name="MainForm.msgSynchronizing" 
+     description="{0} is the name of the feed that is being processed" 
+	 english="Synchronising ({0})" 
+	 translated="Synchronisiere ({0})" />
+  
+  <T name="MainForm.msgLastUpdated"
+     description="{0} is the date when OW has last updated" 
+	 english="Last updated on {0}" 
+	 translated="Letztes Update am {0}" />
+  
+  <T name="MainForm.msgErrorUpdating" 
+     description="{0} is the date when the error has occured" 
+	 english="Error updating on {0}"
+	 translated="Fehler bei Update am {0}" />
+  
+  <T name="MainForm.msgNoUpdates"
+	 english="There are no new updates." 
+	 translated="Keine neuen Updates." />
+  
+  <T name="MainForm.msgInitialDownload"
+	 english="OccultWatcher has to download the intial events information. This may take a couple of minutes depending on your internet connection speed."
+	 translated="OccultWatcher muss die Ereignisdaten herunterladen. Abhängig von Ihrer Verbindungsgeschwindigkeit kann das einige Minuten dauern." />
+  
+  <T name="MainForm.titleInformation"
+	 english="Information" 
+	 translated="Information" />
+  
+  <T name="MainForm.titleBePatient"
+	 english="Please be patient" 
+	 translated="Bitte haben Sie Geduld" />
+  
+  <T name="MainForm.statusIdle"
+	 english="Idle" 
+	 translated="Leerlauf" />
+  
+  <T name="MainForm.statusAnalysing"
+	 english="Analysing" 
+	 translated="Analysiere" />
+  
+  <T name="MainForm.statusPreparing"
+	 english="Preparing ..." 
+	 translated="Vorbereitung ..." />
+  
+  <T name="MainForm.statusNew" 
+     description="Please keep the space at the begining. This status will be appended to the last updated date in the events list for new events" 
+	 english=" new" 
+	 translated=" neu" />
+  
+  <T name="MainForm.statusUpdateStarted"
+	 english="Update started ..." 
+	 translated="Update gestartet ..." />
+  
+  <T name="MainForm.grpAllEvents"
+	 english="All Events" 
+	 translated="Alle Ereignisse" />
+  
+  <T name="MainForm.miConfigAddin" 
+	 english="Configure Add-ins" 
+	 translated="Konfiguriere Add-ins" />
+  
+  <T name="MainForm.miFindAddin"
+	 english="Find Add-ins" 
+	 translated="Finde Add-ins" />
+  
+   
+   
+  <T name="AboutForm.Title" 
+	 english="About" 
+	 translated="Über" />
+  
+  
+  <T name="AccountOptionsForm.Title" 
+	 english="Account options"
+	 translated="Optionen Benutzerkonto" />
+  
+  <T name="AccountOptionsForm.cbxNotify" 
+	 english="Notify me of site updates"
+	 translated="Stationsänderungen melden" />
+  
+  <T name="AccountOptionsForm.lblNotify"
+	 english="Notify me if other observers change their site location for my chosen events. Notifications are sent by email only in the last day before the event." 
+	 translated="Wenn Beobachter ihre Stationen für meine ausgesuchten Ereignisse ändern, wird mir dies am letzten Tag vor dem Ereignis per E-Mail mitgeteilt. " />
+  
+  
+  
+  <T name="FeedPropsForm.Title"
+	 english="Feed Info" 
+	 translated="Feed Info" />
+  
+  <T name="FeedPropsForm.Feed" 
+	 english="Feed"
+	 translated="Feed" />
+  
+  <T name="FeedPropsForm.ScriptVersion"
+	 english="Script version"
+	 translated="Script Version" />
+  
+  <T name="FeedPropsForm.ScriptSource"
+	 english="Script source"
+	 translated="Script Quelle" />
+  
+  
+  
+  <T name="MaintenanceForm.Title"
+	 english="All maintenance tasks"
+	 translated="Alle Aufgaben" />
+  
+  <T name="MaintenanceForm.btnResetConfiguration" 
+	 english="Reset Configuration"
+	 translated="Konfiguration zurücksetzen" />
+  
+  <T name="MaintenanceForm.btnPurgeDatabase"
+	 english="Purge Database" 
+	 translated="Lösche Datenbasis" />
+  
+  <T name="MaintenanceForm.btnBackupDatabase"
+	 english="Backup Database" 
+	 translated="Backup Datenbasis" />
+  
+  <T name="MaintenanceForm.msgResetWarning" 
+	 english="All settings will be deleted. This will also purge the database deleting all cached content. All current predictions will have to be downloaded again. Your announced stations will not be affected. Press 'Yes' to continue." 
+	 translated="Alle Einstellungen werden gelöscht. Auch die Datenbasis wird gelöscht inklusive Cache. Alle derzeitigen Vorhersagen müssen erneut heruntergeladen werden. Ihre gemeldeten Stationen sind nicht betroffen. Dücken Sie 'Ja' um fortzufahren." />
+  
+  <T name="MaintenanceForm.msgPurgeDatabaseWarning"
+	 english="Purging OccultWatcher database will effectively delete all cached content. All current predictions will have to be downloaded again. Your announced stations will not be affected. Press 'Yes' to continue." 
+	 translated="Zurücksetzten der OccultWatcher Datenbasis löscht alle Daten im Cache. Alle derzeitigen Vorhersagen müssen erneut heruntergeladen werden. Ihre gemeldeten Stationen sind nicht betroffen. Dücken Sie 'Ja' um fortzufahren. " />
+  
+  <T name="MaintenanceForm.titleWarning" 
+	 english="Warning"
+	 translated="Warnung" />
+  
+ 
+  <T name="OptionsForm.tabGeneral"
+	 english="General" 
+	 translated="Allgemein" />
+  
+  <T name="OptionsForm.tabEventFilters"
+	 english="Event filters" 
+	 translated="Ereignis Filter" />
+  
+  <T name="OptionsForm.tabOtherOptions"
+	 english="Other options" 
+	 translated="Weitere Optionen" />
+  
+  <T name="OptionsForm.tabFeeds"
+	 english="Prediction feeds" 
+	 translated="Feeds der Vorhersagen" />
+  
+  <T name="OptionsForm.tabPlanner" 
+	 english="Observation planner" 
+	 translated="Beobachtungsplaner" />
+  
+  <T name="OptionsForm.grpMySite"
+	 english="My site" 
+	 translated="Meine Station" />
+  
+  <T name="OptionsForm.lblMySite" 
+	 english="Specify your site's geographic position for the calculations" 
+	 translated="Geben Sie Ihre geografische Position für die Berechnungen an:" />
+  
+  <T name="OptionsForm.lblLongitude"
+	 english="Longitude"
+	 translated="Länge" />
+  
+  <T name="OptionsForm.lblLatitude" 
+	 english="Latitude" 
+	 translated="Breite" />
+  
+  <T name="OptionsForm.btnSavedSites"
+	 english="Saved" 
+	 translated="OK" />
+  
+  <T name="OptionsForm.grpDistances" 
+	 english="Show distances in" 
+	 translated="Distanz in" />
+  
+  <T name="OptionsForm.grpTimes" 
+	 english="Show times in" 
+	 translated="Zeit in" />
+  
+  <T name="OptionsForm.grpAzimuth"
+	 english="Show azimuth as" 
+	 translated="Azimuth als" />
+  
+  <T name="OptionsForm.grpColorScheme"
+	 english="Colour scheme"
+	 translated="Farbschema" />
+  
+  <T name="OptionsForm.grpEventsListing"
+	 english="Events listing" 
+	 translated="Ereignisliste" />
+  
+  <T name="OptionsForm.rbSI" 
+	 english="Kilometers" 
+	 translated="Kilometer" />
+  
+  <T name="OptionsForm.rbImperial" 
+	 english="Miles" 
+	 translated="Meilen" />
+  
+  <T name="OptionsForm.rbLocalTime" 
+	 english="Local Time" 
+	 translated="Lokale Zeit" />
+  
+  <T name="OptionsForm.rbUT" 
+	 english="Universal Time"
+	 translated="Universal Time" />
+  
+  <T name="OptionsForm.rbAzimuthDirection" 
+     description="Don't translate this for now as currently you cannot redefine the dirrection designations individually. If you prefer to have them translated please contact me."
+	 english="N, NE, E, SE, S, SW, W, NW" 
+	 translated="N, NE, E, SE, S, SW, W, NW" />
+  
+  <T name="OptionsForm.rbAzimuthDegrees"
+	 english="Degrees" 
+	 translated="Grad" />
+  
+  <T name="OptionsForm.cbxEventsListing.1" 
+	 english="Group by Feed" 
+	 translated="Sortiere nach Feed" />
+  
+  <T name="OptionsForm.cbxEventsListing.2" 
+	 english="Chronologically"
+	 translated="Chronologisch" />
+  
+  <T name="OptionsForm.cbxColorScheme.1" 
+	 english="Pastel" 
+	 translated="Pastell" />
+  
+  <T name="OptionsForm.cbxColorScheme.2"
+	 english="Contrast" 
+	 translated="Kontrast" />
+  
+  <T name="OptionsForm.grpFilter"
+     description="make sure you keep all the spaces before the word" 
+	 english="                                           filter" 
+	 translated="                                           Filter" />
+  
+  <T name="OptionsForm.gbxFilter" 
+	 english="Don't show events for which ..." 
+	 translated="Ereignisse ausschließen, wenn:" />
+  
+  <T name="OptionsForm.lblDefaultFilterDescr" 
+	 english="The default filter is used for all feeds for which no custom filter is defined" 
+	 translated="Feeds ohne Benutzerfilter verwenden Standardfilter." />
+  
+  <T name="OptionsForm.lblFilterSite" 
+	 english="My site is more than" 
+	 translated="meine Station mehr als" />
+  
+  <T name="OptionsForm.lblFilterOutside" 
+	 english="outside the" 
+	 translated="außerhalb" />
+  
+  <T name="OptionsForm.lblStarFainter"
+	 english="The star is fainter than" 
+	 translated="Stern schwächer ist als" />
+  
+  <T name="OptionsForm.lblStarMagn"
+	 english="magnitude"
+	 translated="Magnitude" />
+  
+  <T name="OptionsForm.lblStarLower"
+	 english="The star is lower than" 
+	 translated="Stern niedriger ist als" />
+  
+  <T name="OptionsForm.lblStarDeg" 
+	 english="degrees" 
+	 translated="Grad" />
+  
+  <T name="OptionsForm.lblAsteroidSmaller" 
+	 english="The asteroid shadow is smaller than" 
+	 translated="Asteroid kleiner ist als" />
+  
+  <T name="OptionsForm.cbNoDaylight" 
+	 english="The event happens in daylight"
+	 translated="Das Ereignis findet am Tage statt." />
+  
+  <T name="OptionsForm.lblKeepShowing" 
+	 english="Keep showing old events from the past" 
+	 translated="Vergangene Ereignisse anzeigen" />
+  
+  <T name="OptionsForm.lblDays" 
+	 english="days" 
+	 translated="Tage" />
+  
+  <T name="OptionsForm.cbDistanceType.1" 
+	 english="central line" 
+	 translated="Zentrallinie" />
+  
+  <T name="OptionsForm.cbDistanceType.2" 
+	 english="shadow path"
+	 translated="Schattenpfad" />
+  
+  <T name="OptionsForm.cbDistanceType.3"
+	 english="1-sigma zone" 
+	 translated="1-sigma Zone" />
+  
+  <T name="OptionsForm.cbDistanceType.4"
+	 english="3-sigma zone" 
+	 translated="3-sigma Zone" />
+  
+  <T name="OptionsForm.cbDistanceType.5" 
+	 english="10-path-widths zone (for satelites detection)" 
+	 translated="10-Pfadbreiten Zone (für Satellitensuche)" />
+  
+  <T name="OptionsForm.grpNotification" 
+	 english="Notification" 
+	 translated="Benachrichtigung" />
+  
+  <T name="OptionsForm.grpStartup" 
+	 english="Startup and Synchronization"
+	 translated="Beim Starten synchronisieren" />
+  
+  <T name="OptionsForm.grpGMSettings" 
+	 english="GoogleMap Settings" 
+	 translated="GoogleMap Einstellungen" />
+  
+  <T name="OptionsForm.grpMaintenance"
+	 english="Maintenance" 
+	 translated="Aufgaben" />
+  
+  <T name="OptionsForm.lblOnNewEvents"
+	 english="On new or updated events" 
+	 translated="Bei neuen oder aktualisierten Ereignissen" />
+  
+  <T name="OptionsForm.cbHighlightEvent"
+	 english="Highlight events"
+	 translated="Ereignisse markieren" />
+  
+  <T name="OptionsForm.cbAlertSound" 
+	 english="Play sound"
+	 translated="Tonsignal" />
+  
+  <T name="OptionsForm.cbAlertPopUpForm" 
+	 english="Pop up Occult Watcher" 
+	 translated="Öffne Occult Watcher" />
+  
+  <T name="OptionsForm.cbStartAutomatically" 
+	 english="Start when Windows starts" 
+	 translated="mit Windows starten" />
+  
+  <T name="OptionsForm.lblSynchronise" 
+	 english="Synchronise" 
+	 translated="Synchronisiere" />
+  
+  <T name="OptionsForm.lblResOpt" 
+	 english="Optimized for resolution:" 
+	 translated="Optimiert für Auflösung:" />
+  
+  <T name="OptionsForm.cbxUseChinaMaps"
+	 english="Use GoogleMaps for China (http://ditu.google.com)" 
+	 translated="Benutze GoogleMaps für China (http://ditu.google.com)" />
+  
+  <T name="OptionsForm.btnCleanCache" 
+	 english="Purge database" 
+	 translated="Lösche Datenbasis" />
+  
+  <T name="OptionsForm.btnResetConfig" 
+	 english="All maintenance tasks" 
+	 translated="Alle Aufgaben" />
+  
+  <T name="OptionsForm.btnProxy" 
+	 english="Configure proxy" 
+	 translated="Proxy Konfiguration" />
+  
+  <T name="OptionsForm.cbxSynchPeriod.1" 
+	 english="Hourly" 
+	 translated="Stündlich" />
+  
+  <T name="OptionsForm.cbxSynchPeriod.2"
+	 english="Every 6 hours" 
+	 translated="Alle 6 Stunden" />
+  
+  <T name="OptionsForm.cbxSynchPeriod.3" 
+	 english="Daily" 
+	 translated="Täglich" />
+  
+  <T name="OptionsForm.cbxSynchPeriod.4" 
+	 english="Manually" 
+	 translated="Manuell" />
+  
+  <T name="OptionsForm.lblPredictions" 
+	 english="Asteroidal occultations predictions"
+	 translated="Vorhersagen von Bedeckungen durch Asteroiden" />
+  
+  <T name="OptionsForm.lblFeedUrl"
+	 english="Feed Url" 
+	 translated="Feed Url" />
+  
+  <T name="OptionsForm.grpPlanner" 
+	 english="Your account" 
+	 translated="Ihr Benutzerkonto" />
+  
+  <T name="OptionsForm.lblEmail"
+	 english="Email Address" 
+	 translated="E-Mail Adresse" />
+  
+  <T name="OptionsForm.lblRegion" 
+	 english="Region" 
+	 translated="Region" />
+  
+  <T name="OptionsForm.lblDisplayName" 
+	 english="Display Name" 
+	 translated="Namen anzeigen" />
+  
+  <T name="OptionsForm.lblPassword" 
+	 english="Password" 
+	 translated="Passwort" />
+  
+  <T name="OptionsForm.lblRepeatPassword" 
+	 english="Repeat Password" 
+	 translated="Passwort wiederholen" />
+  
+  <T name="OptionsForm.lblEmailDescr"
+	 english="Your email address is used as your login name and uniquely identifies your account" 
+	 translated="Ihre E-Mail Adresse ist Ihr Login-Name und identifiziert Ihr Benutzerkonto. " />
+  
+  <T name="OptionsForm.lblRegionDescr" 
+	 english="Please choose your region for region specific OccultWatcher customizations" 
+	 translated="Bitte wählen Sie Ihre Region für spezielle 'Occult Watcher' Einstellungen" />
+  
+  <T name="OptionsForm.lblNameDescr" 
+	 english="Your display name is visible to the other observers when you announce your observing sites. This is usually your name or an alias which you use" 
+	 translated="Ihr angezeigter Name ist für andere Beobachter sichtbar wenn Sie Ihre Station melden. Dies kann Ihr Name oder ein Alais sein." />
+  
+  <T name="OptionsForm.cbxClearPassword"
+	 english="Show password in clear text" 
+	 translated="Passwort unverschlüsselt zeigen" />
+  
+  <T name="OptionsForm.cbxUseExisting" 
+	 english="Use existing account" 
+	 translated="Bestehenden Benutzerkonto benutzen" />
+  
+  <T name="OptionsForm.btnAccOptions"
+	 english="Account options" 
+	 translated="Optionen Benutzerkonto" />
+  
+  <T name="OptionsForm.btnAdminOptions"
+	 english="Admin panel" 
+	 translated="Admin panel" />
+  
+  <T name="OptionsForm.btnCreateAccount" 
+	 english="Create account" 
+	 translated="Benutzerkonto einrichten" />
+  
+  <T name="OptionsForm.btnUpdateAccount" 
+	 english="Update account" 
+	 translated="Aktualisieren " />
+  
+  <T name="OptionsForm.btnSetAccount" 
+	 english="Set account" 
+	 translated="Setze Benutzerkonto" />
+  
+  <T name="OptionsForm.btnTestConnection"
+	 english="Test connection" 
+	 translated="Teste Verbindung" />
+  
+  <T name="OptionsForm.lblPlannerConnecting" 
+	 english="Connecting to the Observation Planner server ..."
+	 translated="Verbinde zum Server des Beobachtungsplaner ..." />
+  
+  <T name="OptionsForm.msgLongDeg" 
+	 english="Specify a non negative integer number in the range 0..180" 
+	 translated="Geben Sie eine nicht negative ganze Zahl zwischen 0..180 ein" />
+  
+  <T name="OptionsForm.msgMin"
+	 english="Specify a non negative integer number in the range 0..59" 
+	 translated="Geben Sie eine nicht negative ganze Zahl zwischen 0..59 ein" />
+  
+  <T name="OptionsForm.msgLatDeg"
+	 english="Specify a non negative integer number in the range 0..90" 
+	 translated="Geben Sie eine nicht negative ganze Zahl zwischen 0..90 ein" />
+  
+  <T name="OptionsForm.msgDistance"
+	 english="Specify a non negative integer number." 
+	 translated="Geben Sie eine nicht negative ganze Zahl ein." />
+  
+  <T name="OptionsForm.msgMagnitude"
+	 english="Specify a valid star magnitude."
+	 translated="Geben Sie eine gültige Magnitude ein." />
+  
+  <T name="OptionsForm.msgAltitude"
+	 english="Specify a valid star altitude." 
+	 translated="Geben Sie eine gültige Sternhöhe an." />
+  
+  <T name="OptionsForm.msgAstSize" 
+	 english="Specify a valid asteroid size." 
+	 translated="Geben Sie eine gültige Asteroidengröße an." />
+  
+  <T name="OptionsForm.titleValidationError"
+	 english="Validation Error" 
+	 translated="Fehler - ungültige Eingabe" />
+  
+  <T name="OptionsForm.errNoEmail" 
+	 english="Enter your email address" 
+	 translated="Bitte geben Sie Ihre E-Mail Adresse ein" />
+  
+  <T name="OptionsForm.errNoName" 
+	 english="Enter your name or alias" 
+	 translated="Geben Sie Ihren Benutzernamen ein" />
+  
+  <T name="OptionsForm.errBlankPass" 
+	 english="Blank password is not allowed" 
+	 translated="Leeres Passwort ist nicht möglich" />
+  
+  <T name="OptionsForm.errPassNotMatch" 
+	 english="Password and repeated password don't match. Please try again." 
+	 translated="Passwort und wiederholtes Passwort stimmen nicht überein. Bitte wiederholen." />
+  
+  <T name="OptionsForm.msgConnOK" 
+	 english="Connection is OK" 
+	 translated="Verbindung ist OK" />
+  
+  <T name="OptionsForm.msgAccConfigOk" 
+	 english="Your account has been configured." 
+	 translated="Ihr Benutzerkonto wurde eingerichtet." />
+  
+  <T name="OptionsForm.errAccConfig" 
+	 english="There was a problem configuring existing account. The account may not exist or the password could be wrong." 
+	 translated="Es gabe ein Problem mit Ihrem existierenden Benutzerkonto. Das Konto ist nicht vorhanden oder das Passwort ist falsch." />
+  
+  <T name="OptionsForm.msgAccCreatedOk" 
+	 english="Your account has been created" 
+	 translated="Ihr Benutzerkonto wurde erstellt." />
+  
+  <T name="OptionsForm.msgAccUpdatedOk" 
+	 english="Your account information has been updated" 
+	 translated="Ihr Benutzerkonto wurde aktualisiert." />
+  
+  <T name="OptionsForm.msgRestart" 
+	 english="OccultWatcher will now restart." 
+	 translated="OccultWatcher startet neu." />
+  
+  <T name="OptionsForm.msgMarkedForSync" 
+	 english="The feed has been marked for synchronisation. Close the dialog to synchronise." 
+	 translated="Der Feed wurde für die Sychronisation markiert. Schließen Sie den Dialog um zu sychronisieren." />
+  
+  <T name="OptionsForm.lblDefineCustomFiler"
+     description="{0} will be the name of the feed" 
+	 english="Define custom filter for the {0} feed events" 
+	 translated="Definieren Sie Ihren Benutzerfilter für Feed {0} Ereignisse." />
+  
+  <T name="OptionsForm.txtHome" 
+     description="This is the default name of the first entered site (location)" 
+	 english="Home" 
+	 translated="Heimatstation" />
+  
+  <T name="OptionsForm.miEditSavedSites"
+	 english="Edit saved sites" 
+	 translated="Bearbeiten/Neu" />
+  
+  
+  
+  <T name="ProxyForm.Title" 
+	 english="Proxy server settings" 
+	 translated="Proxy Server Einstellungen" />
+  
+  <T name="ProxyForm.cbxUseProxy" 
+	 english="Use proxy server" 
+	 translated="Benutze Proxy Server" />
+  
+  <T name="ProxyForm.lblProxyName" 
+	 english="Proxy address and port (e.g. http://myproxy:8080/" 
+	 translated="Proxy Adresse und Port (z.B. http://myproxy:8080/" />
+  
+  <T name="ProxyForm.lblUserName" 
+	 english="User name" 
+	 translated="Benutzername" />
+  
+  <T name="ProxyForm.lblPassword" 
+	 english="Password" 
+	 translated="Passwort" />
+  
+  <T name="ProxyForm.btnTest"
+	 english="Test" 
+	 translated="Test" />
+  
+  <T name="ProxyForm.msgTestingProxy" 
+	 english="OccultWatcher will test the connection through the proxy. This may lead to the program being not responding for up to 1 min."
+	 translated="OccultWatcher testet die Verbindung durch den Proxy. es ist möglich, dass das Programm für bis zu einer Minute nicht reagiert." />
+  
+  <T name="ProxyForm.msgTestingProxySuccess" 
+	 english="The proxy test successed. However some anonymous proxies may be rejected by the servers hosting OccultWatcher feeds." 
+	 translated="Proxy Test erfolgreich. Es ist jedoch möglich, dass einige anonyme Proxies von Servern mit OccultWatcher Feeds verweigert werden." />
+  
+  <T name="ProxyForm.titleErrorTesting" 
+	 english="Error testing proxy" 
+	 translated="Fehler bei Proxytest" />
+  
+  
+  <T name="SavedSitesForm.Title"
+	 english="Saved sites" 
+	 translated="Gespeicherte Stationen" />
+  
+  <T name="SavedSitesForm.btnAdd" 
+	 english="Add new" 
+	 translated="Neu" />
+  
+  <T name="SavedSitesForm.btnEdit" 
+	 english="Edit"
+	 translated="Bearbeiten" />
+  
+  <T name="SavedSitesForm.btnDelete"
+	 english="Delete" 
+	 translated="Löschen" />
+  
+  <T name="SavedSitesForm.lblSiteName"
+	 english="Site name"
+	 translated="Station" />
+  
+  <T name="SavedSitesForm.btnSave" 
+	 english="Save" 
+	 translated="Speichern" />
+  
+  <T name="SavedSitesForm.btnClose"
+	 english="Close" 
+	 translated="Schließen" />
+  
+  <T name="SavedSitesForm.txtNew" 
+     description="This is the default name of a new site"  
+	 english="New" 
+	 translated="Neu" />
+  
+  <T name="SavedSitesForm.msgDeleteConfirm" 
+     description="{0} will be the name of the site to be deleted" 
+	 english="Delete '{0}'?"
+	 translated="'{0}' löschen ?" />
+  
+  <T name="SavedSitesForm.titleConfirmation" 
+	 english="Confirmation" 
+	 translated="Bestätigen" />
+  
+  
+  
+  <T name="Occultations.txtCaption" 
+     description="{0} will be the name of the asteroid and {1} the name of the star" 
+	 english="{0} occults {1}" 
+	 translated="{0} bedeckt {1}" />
+  
+  <T name="Occultations.lnkShowOnlineMapNoStations"
+	 english="Show online map" 
+	 translated="Online Karte" />
+  
+  <T name="Occultations.lnkShowOnlineMap" 
+	 english="Show online map with stations" 
+	 translated="Online Karte mit Stationen" />
+  
+  <T name="Occultations.msgNoStations" 
+	 english="There are currently no announced stations for this event." 
+	 translated="Für dieses Ereignis sind derzeit keine Stationen gemeldet." />
+  
+  <T name="Occultations.msgOneStation" 
+	 english="There is currently 1 announced station for this event."
+	 translated="Für dieses Ereignis ist derzeit 1 Station gemeldet." />
+  
+  <T name="Occultations.msgNStations"
+     description="{0} will be the number of stations" 
+	 english="There are currently {0} announced stations for this event." 
+	 translated="Für dieses Ereignis sind derzeit {0} Stationen gemeldet." />
+  
+  <T name="Occultations.msgNoneYours"
+	 english="None of them are yours." 
+	 translated="Keine von diesen ist Ihre." />
+  
+  <T name="Occultations.msgOneYours"
+	 english="1 of them is yours." 
+	 translated="1 von diesen ist Ihre." />
+  
+  <T name="Occultations.msgNYours"
+     description="{0} will be the number of stations" 
+	 english="{0} of them are yours." 
+	 translated="{0} sind von Ihnen." />
+  
+  <T name="Occultations.txtDistCentLine"
+	 english="Distance from Central Line" 
+	 translated="Entfernung zur Zentrallinie" />
+  
+  <T name="Occultations.txtDistLimit1" 
+	 english="Distance from Limit 1" 
+	 translated="Entfernung vom Limit 1" />
+  
+  <T name="Occultations.txtDistLimit2" 
+	 english="Distance from Limit 2" 
+	 translated="Entfernung vom Limit 2" />
+  
+  <T name="Occultations.txtDistLimit3"
+	 english="Distance from Limit 3" 
+	 translated="Entfernung vom Limit 3" />
+  
+  <T name="Occultations.txtDistLimit4"
+	 english="Distance from Limit 4" 
+	 translated="Entfernung vom Limit 4" />
+  
+  <T name="Occultations.txtShadowWidth" 
+	 english="Shadow width" 
+	 translated="Schattenbreite" />
+  
+  <T name="Occultations.txt1SigmaWidth" 
+	 english="1-Sigma width"
+	 translated="1-Sigma Breite" />
+  
+  <T name="Occultations.txtSignNote" 
+	 english="Note: Negative numbers indicate that the site is at a &#xD;&#xA; different side of the shadow." 
+	 translated="Note: Negative Werte bedeuten, die Station ist auf &#xD;&#xA; der anderen Seite des Schattens." />
+  
+  <T name="Occultations.txtEventListed" 
+	 english="This event is listed in"
+	 translated="Das Ereignis ist aufgelistet" />
+  
+  <T name="Occultations.locShadow"
+     description="{0} will be the distance and {1} the unit (km or miles)" 
+	 english="In the shadow, {0} {1} from the central line" 
+	 translated="Im Schatten, {0} {1} von der Zentrallinie entfernt" />
+  
+  <T name="Occultations.loc1Sigma" 
+     description="{0} will be the distance and {1} the unit (km or miles)" 
+	 english="In the 1-sigma zone, {0} {1} outside the shadow path" 
+	 translated="In der 1-sigma Zone, {0} {1} außerhalb des Schattenpfades." />
+  
+  <T name="Occultations.locOutside1Sigma" 
+     description="{0} will be the distance and {1} the unit (km or miles)" 
+	 english="{0} {1} outside the 1-sigma zone" 
+	 translated="{0} {1} außerhalb der 1-sigma Zone" />
+  
+  <T name="Occultations.txtBelowHorizon" 
+	 english="(below horizon)" 
+	 translated="(unter Horiz.)" />
+  
+  <T name="Occultations.lblMoonAltLblNoVis"
+	 english="Moon:"
+	 translated="Mond:" />
+  
+  <T name="Occultations.lblMoonAltLbl"
+	 english="Moon altitude:" 
+	 translated="Mondhöhe:" />
+  
+  <T name="Occultations.lblYou" 
+	 english="you" 
+	 translated="Ich" />
+  
+  <T name="Occultations.lblCenter"
+	 english="center" 
+	 translated="Zentrum" />
+  
+  <T name="Occultations.lblShadow" 
+	 english="shadow" 
+	 translated="Schatten" />
+  
+  <T name="Occultations.lbl1Sigma"
+	 english="1-sigma" 
+	 translated="1-Sigma" />
+  
+  <T name="Occultations.lbl2n3Sigma" 
+	 english="2 &amp; 3-sigma limits" 
+	 translated="2 &amp; 3-Sigma Limits" />
+  
+  <T name="Occultations.lbl10PWCenter"
+	 english="10 path-widths from center" 
+	 translated="10 Pfadweiten vom Zentrum" />
+  
+  <T name="Occultations.lbl10PW1Sigma" 
+	 english="10 path-widths from 1-sigma" 
+	 translated="10 Pfadweiten vom 1-sigma" />
+  
+  <T name="Occultations.descrEventTime" 
+	 english="Event time:" 
+	 translated="Zeit Ereignis:" />
+  
+  <T name="Occultations.descrMaxDuration" 
+	 english="Max duration:" 
+	 translated="Max. Dauer:" />
+  
+  <T name="Occultations.descrMagnDrop"
+	 english="Magnitude drop:" 
+	 translated="Abnahme Mag.:" />
+  
+  <T name="Occultations.descrStarMagn" 
+	 english="Star magnitude:" 
+	 translated="Magnitude Stern:" />
+  
+  <T name="Occultations.descrConstellation" 
+	 english="Constellation:" 
+	 translated="Sternbild:" />
+  
+  <T name="Occultations.descrStarAltitude" 
+	 english="Star altitude:" 
+	 translated="Sternhöhe:" />
+  
+  <T name="Occultations.lblSunAltTxt"
+	 english="Sun altitude:" 
+	 translated="Sonnenhöhe:" />
+  
+  <T name="Occultations.lblMoonDistLbl" 
+	 english="Moon distance:" 
+	 translated="Distanz Mond:" />
+  
+  <T name="Occultations.lnkStationSort" 
+	 english="View station sorts"
+	 translated="Stationsliste" />
+  
+  <T name="Occultations.lnkGE" 
+	 english="Save 'Google Earth' kml file" 
+	 translated="'Google Earth' kml Datei speichern" />
+  
+  <T name="Occultations.linkShowDetailsOnTheWeb" 
+	 english="View details on the web"
+	 translated="Details im Web" />
+  
+  <T name="Occultations.linkPosition"
+	 english="Position:"
+	 translated="Position:" />
+  
+  <T name="Occultations.lblFeeds" 
+	 english="Feeds" 
+	 translated="Feeds" />
+  
+  <T name="Occultations.lvEvents.1" 
+	 english="Asteroid" 
+	 translated="Asteroid" />
+  
+  <T name="Occultations.lvEvents.2"
+	 english="Event Date"
+	 translated="Datum Ereignis" />
+  
+  <T name="Occultations.lvEvents.3"
+	 english="Star Magn." 
+	 translated="Stern Mag." />
+  
+  <T name="Occultations.lvEvents.4" 
+	 english="Rank" 
+	 translated="Rang" />
+  
+  <T name="Occultations.lvEvents.5" 
+	 english="Distance"
+	 translated="Entfernung" />
+  
+  <T name="Occultations.lvEvents.6" 
+	 english="Last Updated" 
+	 translated="Letztes Update" />
+ 
+ 
+ 
+  <T name="StationSort.Title" 
+	 english="Station sorts for {0} on {1}" 
+	 translated="Stationsliste für {0} am {1}" />
+	 
+  <T name="StationSort.txtCenterLine" 
+	 english="**** Centre Line    ****" 
+	 translated="**** Zentrallinie    ****" />
+	 
+  <T name="StationSort.txtNorthernLimit" 
+	 english="***  Northern limit  ***" 
+	 translated="***  Nördliches Limit  ***" />
+	 
+  <T name="StationSort.txtSouthernLimit" 
+	 english="***  Southern limit  ***" 
+	 translated="***  Südliches Limit  ***" />
+	 
+  <T name="StationSort.txtNorthernLimit1Sigma" 
+	 english="** Northern limit plus 1-Sigma **" 
+	 translated="** Nördliches Limit plus 1-Sigma **" />
+	 
+  <T name="StationSort.txtSouthernLimit1Sigma" 
+	 english="** Southern limit plus 1-Sigma **" 
+	 translated="** Südliches Limit plus 1-Sigma **" />
+	 
+  <T name="StationSort.txtNorthernLimit2Sigma" 
+	 english="** Northern limit plus 2-Sigma **" 
+	 translated="** Nördliches Limit plus 2-Sigma **" />
+	 
+  <T name="StationSort.txtSouthernLimit2Sigma" 
+	 english="** Southern limit plus 2-Sigma **" 
+	 translated="** Südliches Limit plus 2-Sigma **" />
+	 
+  <T name="StationSort.txtNorthernLimit3Sigma" 
+	 english="** Northern limit plus 3-Sigma **" 
+	 translated="** Nördliches Limit plus 3-Sigma **" />
+	 
+  <T name="StationSort.txtSouthernLimit3Sigma" 
+	 english="** Southern limit plus 3-Sigma **" 
+	 translated="** Südliches Limit plus 3-Sigma **" />
+	 
+  <T name="StationSort.btnCopy" 
+	 english="Copy" 
+	 translated="Kopieren" />
+	 
+  <T name="StationSort.lvStations.0" 
+	 english="Distance" 
+	 translated="Entfernung" />
+	 
+  <T name="StationSort.lvStations.1" 
+	 english="Prob." 
+	 translated="Wahrscheinlichkeit" />
+	 
+  <T name="StationSort.lvStations.2" 
+	 english="Station Info" 
+	 translated="Stationsdaten" />
+	 
+  <T name="StationSort.lvStations.3" 
+	 english="Submitted by" 
+	 translated="Angemeldet von" />	 
+  
+  
+  <!-- GOOGLE MAP RELATED -->
+  
+  <T name="GoogleMap.txtClickHint" 
+	 english="Click to edit or delete" 
+	 translated="Zum Ändern oder zum Löschen linke Maustaste drücken." />	
+
+  <T name="GoogleMap.txtLong" 
+     description="Shown on your own station's baloon"
+	 english="Long:" 
+	 translated="Länge:" />	
+	 
+  <T name="GoogleMap.txtLat" 
+     description="Shown on your own station's baloon"
+	 english="Lat:" 
+	 translated="Breite:" />	
+	 
+  <T name="GoogleMap.txtEditStation" 
+     description="Shown on your own station's baloon"
+	 english="To edit this station info click {0}here{1}" 
+	 translated="Stationsdaten ändern? {0}Ja{1}" />	
+
+  <T name="GoogleMap.txtDeleteStation" 
+     description="Shown on your own station's baloon"
+	 english="To delete this station click {0}here{1}" 
+	 translated="Station löschen? {0}Ja{1}" />	
+	 
+  <T name="GoogleMap.txtCenterStation" 
+     description="Shown on your own station's baloon"
+	 english="To center this station click {0}here{1}" 
+	 translated="Station zentrieren? {0}Ja{1}" />	
+	 
+  <T name="GoogleMap.txtCurrentSelection" 
+	 english="Your currently selected site coordinates are: {0}, {1}. The site is {2}{3} from the central line.{4}Right-click on the map to select a different site or press submit to announce this site as your observing location." 
+	 translated="Ihre derzeitigen gewählten Stationskoordinaten sind: {0}, {1}. Diese Station ist {2}{3} von der Zentralinie entfernt.{4}Auf der Karte rechtsklicken, um eine andere Station auszuwählen oder das Feld rechts drücken, um diese Station als Ihren Beobachtungsort anzumelden." />	
+	 
+  <T name="GoogleMap.txtSiteResolution" 
+	 english="Site resolution:" 
+	 translated="Auflösung Pfaddiagramm:" />	
+	 
+  <T name="GoogleMap.errNoObservingMethod" 
+	 english="Please select observation method." 
+	 translated="Bitte Beobachtungmethode wählen." />
+
+  <T name="GoogleMap.errNoTimingMethod" 
+	 english="Please select timing method." 
+	 translated="Bitte Art der Zeitnahme wählen" />
+	 
+  <T name="GoogleMap.errEventToFar" 
+	 english="This event is too far in future." 
+	 translated="Dieses Ereignis ist zu weit in der Zukunft." />
+	 
+  <T name="GoogleMap.errEventPassed" 
+	 english="This event has already passed." 
+	 translated="Das Ereignis ist bereits vorbei." />
+	 
+  <T name="GoogleMap.errMaxStationsEvent" 
+	 english="You have reached the maximum number of allowed stations per event." 
+	 translated="Sie haben die maximal erlaubte Anzahl von Stationen pro Ereignis erreicht." />
+	 
+  <T name="GoogleMap.errMaxStationsAll" 
+	 english="You have reached the maximum number of allowed stations for the incomming events." 
+	 translated="Sie haben die maximal erlaubte Anzahl von Stationen für kommende Ereignisse erreicht." />
+	 
+  <T name="GoogleMap.errMaxEventsAll" 
+	 english="The maximum number of active incomming events has been reached. Please contact Hristo Pavlov (hristo_dpavlov@yahoo.com)" 
+	 translated="Sie haben die maximale Anzahl von aktiven künftigen Ereignissen erreicht. Bitte kontaktieren Sie Hristo Pavlov (hristo_dpavlov@yahoo.com)" />
+	 
+  <T name="GoogleMap.errInvalidEvent" 
+	 english="Cannot find event." 
+	 translated="Ereignis nicht gefunden." />
+	 
+  <T name="GoogleMap.errInvalidStation" 
+	 english="Cannot find station." 
+	 translated="Station nicht gefunden." />
+	 
+  <T name="GoogleMap.errStationNotYours" 
+	 english="Wrong station." 
+	 translated="Falsche Station." />
+	 
+  <T name="GoogleMap.errSubmitting" 
+	 english="Cannot submit position." 
+	 translated="Positionsanmeldung nicht möglich." />
+	 
+  <T name="GoogleMap.errCancelling" 
+	 english="Cannot cancel site." 
+	 translated="Entfernen der Station nicht möglich." />
+	 
+  <T name="GoogleMap.errUpdating" 
+	 english="Cannot update position." 
+	 translated="Aktualisieren der Station nicht möglich." />
+	 
+   <T name="GoogleMap.errConnecting" 
+	 english="Error connecting to the Observation Planner server" 
+	 translated="Fehler bei der Verbindung zum Server des Beobachtungsplaner" />
+	 
+   <T name="GoogleMap.errSubmittedSuccess" 
+	 english="Your position has been submitted successfully! To submit the position of another station please close this form and reopen it." 
+	 translated="Ihre Position wurde angemeldet! Um eine weitere Station anzumelden, bitte diese Seite schließen und erneut öffnen." />
+	 
+   <T name="GoogleMap.errUpdatedSuccess" 
+	 english="Your position has been updated successfully! To add/update more stations please close this form and reopen it." 
+	 translated="Ihre Position wurde aktualisiert! Bitte schließen und öffnen Sie erneut diese Seite zum Ergänzen/Aktualisieren von weiteren Stationen." />
+	 
+   <T name="GoogleMap.msgConfirmDeleteSite" 
+	 english="Are you sure you want to delete this site?" 
+	 translated="Station löschen - Sind Sie sicher?" />
+	 
+   <T name="GoogleMap.txtClickToStart" 
+	 english="Right click on the map to define another observing site." 
+	 translated="Bitte rechte Maustaste auf der Karte betätigen, um einen anderen Beobachtungsort zu setzen." />
+	 
+   <T name="GoogleMap.txtEnterStationInfo" 
+	 english="Enter station info" 
+	 translated="Eingabe Stationsdaten" />
+	 
+   <T name="GoogleMap.txtWait" 
+	 english="Please wait ..." 
+	 translated="Bitte warten ..." />
+	 
+   <T name="GoogleMap.txtOtherStations" 
+	 english="Observing locations currently announced by other observers:" 
+	 translated="Beobachtungsstationen, die derzeit von Beobachtern angemeldet sind:" />
+	 
+   <T name="GoogleMap.txtDistance" 
+	 english="Distance:" 
+	 translated="Entfernung:" />
+	 
+  <T name="GoogleMap.txtSiteName" 
+	 english="Site name:" 
+	 translated="Stationsname:" />
+	 
+  <T name="GoogleMap.txtMethod" 
+	 english="Method:" 
+	 translated="Methode:" />
+	 
+  <T name="GoogleMap.txtTiming" 
+	 english="Timing:" 
+	 translated="Zeitnahme:" />
+	 
+  <T name="GoogleMap.optPleaseChoose" 
+	 english="Please choose" 
+	 translated="Bitte wählen" />
+	 
+  <T name="GoogleMap.optVisual" 
+	 english="Visual" 
+	 translated="Visuell" />
+	 
+  <T name="GoogleMap.optVideo" 
+	 english="Video" 
+	 translated="Video" />
+	 
+  <T name="GoogleMap.optDriftScan" 
+	 english="Drift scan" 
+	 translated="Drift Scan" />
+	 
+  <T name="GoogleMap.optPhotoElectric" 
+	 english="Photoelectric" 
+	 translated="Photoelektrisch" />
+	 
+  <T name="GoogleMap.optOther" 
+	 english="Other" 
+	 translated="Andere" />
+	 
+  <T name="GoogleMap.optBeeper" 
+	 english="Beeper box" 
+	 translated="Piepser" />
+	 
+  <T name="GoogleMap.optGPS" 
+	 english="GPS" 
+	 translated="GPS" />
+	 
+  <T name="GoogleMap.optRadio" 
+	 english="Radio broadcast" 
+	 translated="Radiosignal" />
+  <T name="AboutForm.lblTranslationNote" 
+     description="Credits note for your translation. In English this is blank. Please translate it for your language. 
+       If I was doing translation to Bulgarian for example I would write 'Преведе на Български - Христо Павлов' which means 'Translated to Bulgarian by Hristo Pavlov'"
+     english="" 
+     translated="Translated to German by Oliver Klös" />
+  
+  
+  <!-- GENERAL -->
+
+  <T name="left" 
+     description="Used on the GoogleMap to indicate is the position left or right of the center line"
+	   english="left" 
+	   translated="links" />
+
+  <T name="right" 
+     description="Used on the GoogleMap to indicate is the position left or right of the center line"
+	   english="right" 
+	   translated="rechts" />
+
+  <T name="L" 
+     description="Short 1 letter abbreviation for Left"
+	   english="L" 
+	   translated="L" />
+
+  <T name="R" 
+     description="Short 1 letter abbreviation for Right"
+	   english="R" 
+	   translated="R" />
+
+  <T name="direction.N" 
+     description="Short abbreviation for North"
+	   english="N" 
+	   translated="N" />
+
+  <T name="direction.NE" 
+     description="Short abbreviation for North-East"
+	   english="NE" 
+	   translated="NE" />
+
+  <T name="direction.E" 
+     description="Short abbreviation for East"
+	   english="E" 
+	   translated="E" />
+
+  <T name="direction.SE" 
+     description="Short abbreviation for South-East"
+	   english="SE" 
+	   translated="SE" />
+
+  <T name="direction.S" 
+     description="Short abbreviation for South"
+	   english="S" 
+	   translated="S" />
+
+  <T name="direction.SW" 
+     description="Short abbreviation for South-West"
+	   english="SW" 
+	   translated="SW" />
+
+  <T name="direction.W" 
+     description="Short abbreviation for West"
+	   english="W" 
+	   translated="W" />
+
+  <T name="direction.NW" 
+     description="Short abbreviation for North-West"
+	   english="NW" 
+	   translated="NW" />
+
+  
+  <!-- RESOURCES  -->
+
+
+  <T name="OptionsForm.cbxFeedFilters.1" 
+     description="The name of the 'Default' filter"
+	   english="Default" 
+	   translated="Standard" />
+
+  <T name="GoogleMap.submitButton.Submit" 
+     description="The 'submit' button which was not translated before."
+	   english="Submit as your location" 
+	   translated="Als meine Station melden" />
+
+  <T name="GoogleMap.submitButton.Update" 
+     description="The 'update' button which was not translated before."
+	   english="Update this location" 
+	   translated="Stationsdaten übernehmen" />
+
+
+  <T name="StationSort.txtCenterRLLine" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="==== Centre Line    ====" 
+	   translated="==== Zentrallinie    ====" />
+
+  <T name="StationSort.txtRightLimit" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="===  Right limit  ===" 
+	   translated="===  Rechtes Limit  ===" />
+
+  <T name="StationSort.txtLeftLimit" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="===  Left limit  ===" 
+	   translated="===  Linkes Limit  ===" />
+
+  <T name="StationSort.txtRightLimit1Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Right limit plus 1-Sigma ==" 
+	   translated="== Rechtes Limit plus 1-Sigma ==" />
+
+  <T name="StationSort.txtLeftLimit1Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Left limit plus 1-Sigma ==" 
+	   translated="== Linkes Limit plus 1-Sigma ==" />
+
+  <T name="StationSort.txtRightLimit2Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Right limit plus 2-Sigma ==" 
+	   translated="== Rechtes Limit plus 2-Sigma ==" />
+
+  <T name="StationSort.txtLeftLimit2Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Left limit plus 2-Sigma ==" 
+	   translated="== Linkes Limit plus 2-Sigma ==" />
+
+  <T name="StationSort.txtRightLimit3Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Right limit plus 3-Sigma ==" 
+	   translated="== Rechtes Limit plus 3-Sigma ==" />
+
+  <T name="StationSort.txtLeftLimit3Sigma" 
+     description="The new left/right from centre line label on the station sorts form"
+	   english="== Left limit plus 3-Sigma ==" 
+	   translated="== Linkes Limit plus 3-Sigma ==" />
+
+  <T name="OptionsForm.cbMyEvents" 
+     description="The title of the new Show 'My Events' check box"
+	   english="Show 'My Events'" 
+	   translated="'Meine Ereignisse' anzeigen" />
+
+  <T name="OptionsForm.lblFeedsDescr" 
+     description="The description for the feeds."
+	   english="The OccultWatcher experience wouldn't be possible without the people publishing predictions computed with Dave Herald's Occult. Please select from the list below the feeds you want OccultWatcher to monitor for you." 
+	   translated="'Occult Watcher' würde nicht möglich sein ohne die Personen, die mit Dave Heralds OCCULT Vorhersagen berechnen. Bitte wählen Sie von der Liste die von Ihnen gewünschten Vorhersagen aus." />
+
+
+  <T name="OccultationPlanner.txtStatistics" 
+     description="This is the info label showing the number of registered users, events, stations. {0}, {1} and {2} will be the number of users, events, stations"
+	   english="Currently there are: {0} users; {1} coordinated events; {2} stations;" 
+	   translated="Aktuell: {0} Benutzer; {1} koordinierte Ereignisse; {2} Stationen;" />
+
+  <T name="OccultationPlanner.errNewerVersionRequired" 
+     description="A new version needed error message."
+	   english="A newer version of OccultWatcher is required to use the Observation Planner. This functionality will be disabled. Please download and install the latest version of OccultWatcher." 
+	   translated="Diese Funktion ist nicht verfügbar. Um den Beobachtungsplaner zu benutzen, brauchen Sie eine neuere Version von OccultWatcher. Bitte neueste Version von OccultWatcher herunterladen und installieren." />
+
+  <T name="OptionsForm.errPlannerServiceDown" 
+     description="An error message shown when now connection could be established with the Observation Palnner"
+	   english="Could not connect to the Observation Planner server. There is no internet connection or the server may be down." 
+	   translated="Keine Verbindung zum Server des Beobachtungsplaners. Internetverbindung oder Server ist nicht verfügbar." />
+
+  <T name="MainForm.grpMyEvents" 
+     description="The name of the group 'My Events'"
+	   english="My Events" 
+	   translated="Meine Ereignisse" />
+
+  <T name="Occultations.locCentralLine" 
+     description="A site distance notice that could be used for some events. {0} is the distance and {1} is the units km/miles"
+	   english="{0} {1} from the central line" 
+	   translated="{0} {1} von der Zentrallinie" />
+
+  <T name="MainForm.btnHelp.miYahooGroup" 
+     description="The new link on the help menu linking to the Yahoo group"
+	   english="Occult Watcher Yahoo Group" 
+	   translated="Occult Watcher Yahoo Group" />
+
+
+  <T name="Occultations.miChooseColumns" 
+     description="New pop-up menu item on right click on the events"
+	   english="Choose Columns" 
+	   translated="Spalten auswählen" />
+
+  <T name="Occultations.miEventDetails" 
+     description="New pop-up menu item on right click on the events"
+	   english="Event Details" 
+	   translated="Details zum Ereignis" />
+
+  <T name="frmChooseEventColumns.Title" 
+     description="The title of the new 'Visible Columns' form"
+	   english="Visible Columns" 
+	   translated="Sichtbare Spalten" />
+
+  <T name="frmChooseEventColumns.clbColumns.1" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Asteroid Name" 
+	   translated="Name Asteroid" />
+
+  <T name="frmChooseEventColumns.clbColumns.2" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Feed Name" 
+	   translated="Feed Name" />
+  
+  <T name="frmChooseEventColumns.clbColumns.3" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Event Date" 
+	   translated="Datum Ereignis" />
+
+  <T name="frmChooseEventColumns.clbColumns.4" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Star Magnitude" 
+	   translated="Stern Magnitude" />
+
+  <T name="frmChooseEventColumns.clbColumns.5" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Event Rank" 
+	   translated="Rang" />
+
+  <T name="frmChooseEventColumns.clbColumns.6" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Probability" 
+	   translated="Wahrscheinlichkeit" />
+
+  <T name="frmChooseEventColumns.clbColumns.7" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Site Distance" 
+	   translated="Distanz Station" />
+
+  <T name="frmChooseEventColumns.clbColumns.8" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Shadow Width" 
+	   translated="Schattenbreite" />
+
+  <T name="frmChooseEventColumns.clbColumns.9" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Submitted Stations" 
+	   translated="Gemeldete Stationen" />
+
+  <T name="frmChooseEventColumns.clbColumns.10" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Last Updated" 
+	   translated="Letztes Update" />
+
+  <T name="frmChooseEventColumns.clbColumns.11" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Max Duration" 
+	   translated="Max. Dauer" />
+
+  <T name="frmChooseEventColumns.clbColumns.12" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Magn Drop (V)" 
+	   translated="Abnahme Mag.(V)" />
+
+  <T name="frmChooseEventColumns.clbColumns.13" 
+     description="Column in the new 'Visible Columns' form"
+	   english="Magn Drop (R)" 
+	   translated="Abnahme Mag.(R)" />
+
+  <T name="frmChooseEventColumns.clbColumns.14" 
+     description="Column in the new 'Visible Columns' form"
+     english="Star Altitude" 
+     translated="Sternhöhe" />
+
+  <T name="frmChooseEventColumns.clbColumns.15" 
+     description="Column in the new 'Visible Columns' form"
+     english="Sun Altitude" 
+     translated="Sonnenhöhe" />
+
+  <T name="GoogleMap.txtTeamSuccess" 
+     description="New field that will be added to the GoogleMap to show the calculated team success percentage. Not yet implemented in OW!"
+     english="Team success percentage" 
+     translated="Anteil des Teams" />
+
+  <T name="GoogleMap.txtYourContribution" 
+     description="New field that will be added to the GoogleMap to show the your current contribution to the team success. Not yet implemented in OW!"
+     english="Your current site contribution" 
+     translated="Ihr Anteil" />
+
+  <T name="GoogleMap.txtYourContribution" 
+     description="New field that will be added to the GoogleMap to show the total contribution to the team success for all of your sites. Not yet implemented in OW!"
+     english="Your total contribution" 
+     translated="Ihr Gesamtanteil" />
+
+  <T name="frmUserInfo.lblName" 
+     description="Observer's name in the new user info form. Not yet implemented in OW!"
+     english="Name" 
+     translated="Name" />
+  
+  <T name="frmUserInfo.lblNameDescr" 
+     description="Observer's name description label in the new user info form. Not yet implemented in OW!"
+     english="Observer's Name" 
+     translated="Name Beobachter" />
+
+  <T name="frmUserInfo.lblAffiliation" 
+     description="The 'Affiliation' label in the new user info form. Not yet implemented in OW!"
+     english="Affiliation" 
+     translated="Gemeinschaft" />
+
+  <T name="frmUserInfo.lblAffiliationDescr" 
+     description="The 'Affiliation' label description in the new user info form. Not yet implemented in OW!"
+     english="Observatory, Club, Organization, etc" 
+     translated="Observatorium, Club, Organisation, etc" />
+
+  <T name="frmUserInfo.lblCountry" 
+     description="The 'Country' label in the new user info form. Not yet implemented in OW!"
+     english="Country" 
+     translated="Land" />
+
+  <T name="frmUserInfo.lblCity" 
+     description="The 'lblCity' label in the new user info form. Not yet implemented in OW!"
+     english="City" 
+     translated="Stadt" />
+
+
+  <!-- FEEDS INFO TRANSLATION -->
+
+  <T name="Feed.IOTA.Name" 
+	   english="IOTA Higher Probability Events (Global)" 
+	   translated="IOTA Ereignisse (hohe Genauigkeit) (Weltweit)" />
+
+  <T name="Feed.IOTA.Description" 
+	   english="Steve Preston's predictions from www.asteroidoccultation.com. The published predictions are for higher probability events and are computed using recent highly accurate astrometric data. They are generally with very good accuracy, higher probability and small error." 
+	   translated="Steve Prestons Vorhersagen auf www.asteroidoccultation.com. Die veröffentlichten Vorhersagen sind Ereignisse mit hoher Wahrscheinlichkeit und werden mit neuesten astrometrischen Daten berechnet. Sie sind gewöhnlich sehr genau und haben nur kleine Fehlerraten." />
+
+  <T name="Feed.OZNZ.Name" 
+     notes="In XML instead of ampersand you should use '&amp;'."
+	   english="OZNZ Smaller Asteroid Events (South East Australia &amp; New Zealand)" 
+	   translated="OZNZ Ereignisse kleiner Asteroiden (Süd-Ost Australien &amp; Neuseeland)" />
+
+  <T name="Feed.OZNZ.Description" 
+	   english="OZNZ (pronounced oz-noz) Extras are published by Dave Gault. These are low probability small asteroid events for the South-East Australia and New Zealand regions." 
+	   translated="OZNZ (gesprochen oz-noz). Vorhersagen veröffentlich von Dave Gault. Diese Ereignisse mit niedriger Genauigkeit betreffen kleine Asteroiden in der Region Süd-Ost Australien und Neuseeland." />
+
+  <T name="Feed.EastNA.Name" 
+	   english="Eastern North America Low Probability Events" 
+	   translated="Ereignisse Nordamerika - Osten (niedrige Genauigkeit)" />
+
+  <T name="Feed.EastNA.Description" 
+	   english="Eastern North America low probability asteroid occultations calculated using Occult C# by Brad Timerson." 
+	   translated="Ereignisse mit niedriger Genauigkeit im östlichen Teil Nordamerikas berechnet Brad Timerson mit Occult C#." />
+
+  <T name="Feed.WestNA.Name" 
+	   english="Western North America Low Probability Events" 
+	   translated="Ereignisse Nordamerika - Westen (niedrige Genauigkeit)" />
+
+  <T name="Feed.WestNA.Description" 
+	   english="Western North America low probability asteroid occultations feed is maintained by Tony George." 
+	   translated="Ereignisse mit niedriger Genauigkeit im westlichen Nordamerika stellt Tony George zur Verfügung." />
+
+  <T name="Feed.EAON.Name" 
+	   english="EAON Low Probability Events (Europe)" 
+	   translated="E.A.O.N. Ereignisse für Europa (niedrige Genauigkeit)" />
+
+  <T name="Feed.EAON.Description" 
+	   english="The E.A.O.N. low probability events for the Europe region are maintained by Jean Schwaenen" 
+	   translated="Die E.A.O.N. Ereignisse mit niedriger Genauigkeit für Europa werden von Jean Schwaenen berechnet." />
+
+  <T name="Feed.TNO.Name" 
+     description="This will be a new feed in ver 3" 
+	   english="TNO Events (Global)" 
+	   translated="TNO Ereignisse (Weltweit)" />
+
+  <T name="Feed.TNO.Description" 
+     description="This will be a new feed in ver 3" 
+	   english="TNO Events is a list of asteroid predictions involving Trans Neptunian Objects and stars brighter than mag 15. The search is conducted using OccultV4, the latest astorb and NOMAD. The feed is maintained by Dave Gault, AUSTRALIA" 
+	   translated="Die TNO Ereignisse sind eine Liste von Vorhersagen bezüglich Trans Neptunian Objects (TNO) und Sternen heller als 15 mag. Die Suche wird mit Occult V4, den letzten astorb-Daten und NOMAD durchgeführt. Diese Feed wird von Dave Gault, Australien, bereit gestellt." />
+
+  <T name="Feed.NALowMag.Name" 
+     description="This will be a new feed in ver 3" 
+	   english="North America lower magnitude events" 
+	   translated="Ereignisse Nordamerika (niedrige Genauigkeit)" />
+
+  <T name="Feed.NALowMag.Description" 
+     description="This will be a new feed in ver 3" 
+     note="In XML instead of the less than sign you should use '&lt;'. Below the text reads '... magnitude drop less than 1 ...' " 
+	   english="North America events of  50km+ asteroids with combined stellar and asteroid magnitudes of near 11 to not less than 12.9.  Many of these have a magnitude drop &lt;1. Maintained by Steve Messner." 
+	   translated="Ereignisse in Nordamerika mit 50km+ Asteroiden. Kombinierte Magnitude (Stern und Asteroid) um 11 mag und nicht weniger als 12.9 mag. Viele Ereignisse haben einen Helligkeitsabfall von &lt;1. Berechnet von Steve Messner." />
+
+ <!-- OccultWatcher 3.0 Resources -->
+
+  <T name="Occultations.miFollowUpEvent"
+	   english="Add to 'My Events'"
+	   translated="Hinzufügen zu 'Meine Ereignisse'" />
+
+  <T name="Occultations.miObserveFrom"
+     description="{0} will be replaced with the site name"
+	   english="Observe from '{0}'"
+	   translated="Beobachtung von '{0}'" />
+
+  <T name="Occultations.miAddEventForFollowUp"
+	   english="Add Event for Follow Up"
+	   translated="Ereignis markieren" />
+
+  <T name="Occultations.miUndoFollowUpEvent"
+	   english="Remove Follow-Up Flag"
+	   translated="Markierung entfernen" />
+
+  <T name="Occultations.miConfigureSavedSites"
+	   english="Configure Saved Sites"
+	   translated="Gespeicherte Orte bearbeiten" />
+
+  <T name="Occultations.miViewInGoogleSky"
+	   english="View Target Star in 'Google Sky'"
+	   translated="Zeige Zielstern in 'Google Sky'" />
+
+  <T name="Occultations.miChooseSiteFromGM"
+	   english="Choose Observing Site from 'Google Map'"
+	   translated="Wähle Beobachtungsort in 'Google Map'" />
+
+  <T name="Occultations.miChooseSiteFromGM"
+	   english="Choose Observing Site from 'Google Map'"
+	   translated="Wähle Beobachtungsort in 'Google Map'" />
+
+  <T name="txtReviewAccount"
+	   english="Review account properties"
+	   translated="Benutzerkonto Einstellungen zeigen" />
+
+  <T name="msgAccountPrefs"
+	   english="OccultWatcher user accounts have new preferences and details. Please review and update them."
+	   translated="Benutzerkonto hat neue Einstellungen und Angaben. Bitte überprüfen und aktualisieren." />
+
+  <T name="frmRenameColumn.Title"
+	   english="Rename Column"
+	   translated="Spalten umbenennen" />
+
+  <T name="frmChooseEventColumns.btnRename"
+	   english="Rename"
+	   translated="Umbennen" />
+
+  <T name="frmConfirmSite.Title"
+	   english="Confirm Site Submission"
+	   translated="Standortübermittlung bestätigen" />
+
+  <T name="Occultations.miFollowUpEvent.2"
+	   english="Announce Station"
+	   translated="Station anmelden" />
+
+  <T name="frmChooseEventColumns.clbColumns.16"
+	   english="My Submitted Stations"
+	   translated="Meine gemeldeten Stationen" />
+
+  <T name="frmChooseEventColumns.clbColumns.7a"
+	   english="Travel Distance"
+	   translated="Distanz Erdoberfl." />
+
+  <T name="frmChooseEventColumns.clbColumns.17"
+	   english="Site Distance (fp)"
+	   translated="Distanz Station (fp)" />
+
+  <T name="frmChooseEventColumns.clbColumns.18"
+	   english="Separation Angle"
+	   translated="Winkel Separation" />
+
+  <T name="frmChooseEventColumns.clbColumns.19"
+	   english="Moon Altitude"
+	   translated="Mondhöhe" />
+
+  <T name="frmChooseEventColumns.clbColumns.20"
+	   english="Duplicated"
+	   translated="weitere Vorhersage" />
+
+  <T name="frmChooseEventColumns.clbColumns.21"
+	   english="Shift"
+	   translated="Verschiebung" />
+
+  <T name="frmUserInfo.msgConfirmInvalidName"
+	   english="Giving your real name and sirname will help you to be better recognized by the Asteroidal Occultations comunity members. Are you sure you want the Asteroidal Occultations comunity to see you as '{0}'?"
+	   translated="Wenn Sie Ihren echten Namen und Nachnamen angeben, werden Sie besser von der Gemeinschaft der Beobachter erkannt. Wollen Sie wirklich in der Gemeinschaft als '{0}' auftreten?" />
+
+  <T name="frmUserInfo.errNoObserverName"
+	   english="Enter your name"
+	   translated="Namen eingeben" />
+
+  <T name="frmUserInfo.cbxPublicEmail"
+	   english="Make my email address public"
+	   translated="E-Mail Adresse öffentlich" />
+
+  <T name="frmUserInfo.lblPublicEmail"
+	   english="Other observers that have submitted stations for the same events as me can see my email address."
+	   translated="Beobachter, die für das gleiche Ereignis Stationen gemeldet haben, können meine E-Mail Adresse sehen." />
+
+  <T name="frmUserInfo.cbxResetPassword"
+	   english="Reset password"
+	   translated="Passwort neu" />
+
+  <T name="frmUserInfo.msgReviewAllTabs"
+	   english="You haven't reviewed all user information. Please check the other tabs before continuing."
+	   translated="Sie haben nicht alle Benutzerdaten überprüft. Bitte andere Tabs überprüfen bevor Sie fortfahren. " />
+
+  <T name="frmConfigureAccount.Title"
+	   english="Configure Existing Account"
+	   translated="Bestehendes Benutzerkonto konfigurieren" />
+
+  <T name="OptionsForm.lblPlannerInfo"
+	   english="The Observation Planning service allows observers from all over the world to plan better their observations by coordinating their site positions with everyone else, avoiding duplcated chords and helping to get better results. Observers can also report their observations."
+	   translated="Der Beobachtungsplaner hilft Beobachtern weltweit durch Koordinierung besser zu planen. Vermeiden Sie doppelte Stationen auf der gleichen Pfadsehne, um das Gesamtergebnis zu verbessern. Beobachter können ebenso Ihre Beobachtungen melden. " />
+
+  <T name="OptionsForm.lblNoAccountInfo"
+	   english="You currently haven't configured a user account on this computer. If you are observing asteroidal occultations you are encouraged to register and configure a user account."
+	   translated="Sie haben zur Zeit kein Benutzerkonto auf diesem Computer erstellt. Wenn Sie Bedeckungen durch Asteroiden beobachten, bitte registrieren Sie sich durch ein Benutzerkonto." />
+
+  <T name="OptionsForm.lblIWouldLikeTo"
+	   english="I would like to ..."
+	   translated="Ich möchte..." />
+
+  <T name="OptionsForm.rbNewAccount"
+	   english="Create a new user account"
+	   translated="Neues Benutzerkonto erstellen" />
+
+  <T name="OptionsForm.rbUseExisting"
+	   english="Use my existing user account"
+	   translated="Mein existierendes Benutzerkonto verwenden" />
+
+  <T name="OptionsForm.btnConfigureExistingAccount"
+	   english="Start contributing for the comunity"
+	   translated="Start zur Ihrem Beitrag zur Gemeinschaft" />
+
+  <T name="OptionsForm.lblExistingAccountInfo"
+	   english="You have configured your user account on this computer. Don't forget to announce your stations at least a few days before you observe."
+	   translated="Sie haben auf diesem Computer ihr Benutzerkonto konfiguriert. Vergessen Sie nicht, Ihre Station spätestens ein paar Tage vor dem Ereignis anzumelden." />
+
+  <T name="OptionsForm.btnAccountInfo"
+	   english="Account Information"
+	   translated="Info Benutzerkonto" />
+
+  <T name="Feed.Personal.Name"
+	   english="Personal Predictions"
+	   translated="Persönliche Vorhersagen" />
+
+  <T name="Feed.Personal.Description"
+	   english="The special personal predictions feed is provided for OccultWatcher users so they can include their own events as an OCCELMNT file produced by Occult."
+	   translated="Dieses Feed 'Persönliche Vorhersagen' steht Benutzern von Occult Watcher zur Verfügung. Damit können Sie Ihre selbst, mit 'Occult', errechneten Ereignisse als OCCELMNT Dateien einfügen." />
+
+  <T name="Feed.Personal.Name"
+	   english="Personal Predictions"
+	   translated="Persönliche Vorhersagen" />
+
+  <T name="Occultations.descrErrorInTime"
+	   english="Error in time:"
+	   translated="Fehler in Zeit:" />
+
+  <T name="min"
+     description="abbreviation for 'minutes'"
+	   english="min"
+	   translated="min" />
+
+  <T name="fp"
+     description="Suffix for distances to indicate that they are calculated on the Fundamental Plane"
+	   english="(fp)"
+	   translated="(fp)" />
+
+  <T name="Unnumbered"
+     description="description for the number of unnumbered asteroids"
+	   english="Unnumbered"
+	   translated="Unnummeriert" />
+
+  <T name="DST"
+     description="abbreviation for 'Daylight Saving Time'"
+	   english="DST"
+	   translated="Sommerzeit" />
+
+  <T name="yes"
+     description="Used for parameters that may have a value of 'true' or 'false'"
+	   english="yes"
+	   translated="Ja" />
+
+  <T name="no"
+     description="Used for parameters that may have a value of 'true' or 'false'"
+	   english="no"
+	   translated="Nein" />
+
+  <T name="errPlannerSvcError"
+     description="{0} will be replaced with the error message and \r\n\r\n should stay (new lines)"
+	   english="There was a problem connecting to the Observation Planning Service. The error is: \r\n\r\n{0}"
+	   translated="Es gab ein Problem beim Verbinden zum Beobachtungsplaner Service. Der Fehler ist: \r\n\r\n{0}" />
+
+  <T name="OptionsForm.btnAdvanced"
+	   english="Advanced"
+	   translated="Fortgeschrittene" />
+
+  <T name="AdvancedForm.Title"
+	   english="Advanced Options"
+	   translated="Optionen Fortgeschrittene" />
+
+  <T name="AdvancedForm.tabMaintenance"
+	   english="Maintenance"
+	   translated="Wartung" />
+
+  <T name="AdvancedForm.tabWebServices"
+	   english="Web Services"
+	   translated="Web Service" />
+
+  <T name="AdvancedForm.tabOccultationMaps"
+	   english="Occultation Maps"
+	   translated="Bedeckungskarten" />
+
+  <T name="AdvancedForm.tabDataAndFiltering"
+	   english="Data Storage and Filtering"
+	   translated="Datenspeicherung und Filterung" />
+
+  <T name="AdvancedForm.tabColours"
+	   english="Colours"
+	   translated="Farben" />
+
+  <T name="AdvancedForm.tabWarningThresholds"
+	   english="Warning Thresholds"
+	   translated="Warnschwellen" />
+
+  <T name="AdvancedForm.tabMiscellaneous"
+	   english="Miscellaneous"
+	   translated="Verschiedenes" />
+
+  <T name="AdvancedForm.Services.lblPlannerUrl"
+	   english="Occult Planner Web Service Url"
+	   translated="Occult Planner Web Service Url" />
+
+  <T name="AdvancedForm.Services.lblGoogleMapsUrl"
+	   english="Google Maps Url"
+	   translated="Google Maps Url" />
+
+  <T name="AdvancedForm.Services.lblVisieRUrl"
+	   english="VisieR Web Service Url"
+	   translated="VisieR Web Service Url" />
+
+  <T name="AdvancedForm.Services.lblJPLSmallBodyDBUrl"
+	   english="JPL Small Body Database Url"
+	   translated="JPL Small Body Database Url" />
+
+  <T name="AdvancedForm.Services.lblOWUpdateLocation"
+	   english="Occult Watcher Update Location"
+	   translated="Occult Watcher Update Location" />
+
+  <T name="AdvancedForm.Services.btnUseDefaults"
+	   english="Use Defaults"
+	   translated="Grundeinstellung" />
+
+  <T name="AdvancedForm.DataAndFilt.lblAllEventsSize"
+	   english="Currently the local event database size is:"
+	   translated="Größe der derzeitige lokale Ereignisdatei:" />
+
+  <T name="AdvancedForm.DataAndFilt.lblOldEventsSize"
+	   english="Events older than 60 days size is:"
+	   translated="Größe Datei Ereignisse älter als 60 Tage:" />
+
+  <T name="AdvancedForm.DataAndFilt.lblDeleteEventsOlderThan"
+	   english="Automatically delete events older than"
+	   translated="Lösche Ereignisse, wenn älter als" />
+
+  <T name="AdvancedForm.DataAndFilt.lblDeleteEventsOlderThan2"
+	   english="days"
+	   translated="Tage" />
+
+  <T name="AdvancedForm.DataAndFilt.lblHideFutureEventsLaterThan"
+	   english="Don't display events that are more than"
+	   translated="Ereignisse nicht zeigen, wenn sie mehr als" />
+
+  <T name="AdvancedForm.DataAndFilt.lblHideFutureEventsLaterThan2"
+	   english="days ahead"
+	   translated="Tage weg liegen" />
+
+  <T name="AdvancedForm.DataAndFilt.btnDeleteOldEvents"
+	   english="Delete old events now"
+	   translated="Alte Ereignisse jetzt löschen" />
+
+  <T name="AdvancedForm.DataAndFilt.computing"
+	   english="computing ..."
+	   translated="Berechne..." />
+
+  <T name="AdvancedForm.OccMaps.cbStarRaiseSetLines"
+	   english="Draw lines of the star-raise and star-set"
+	   translated="Zeichen Linien 'Sternaufgang' und 'Sternuntergang'" />
+
+  <T name="AdvancedForm.OccMaps.lblStarRaiseSet"
+	   english="When selected, thin light gray lines will be drawn on the occultation maps to indicate the locations on the Earth where the star altitude is zero, which also corresponds to the star raising or setting."
+	   translated="Wenn diese Option ausgewählt ist, werden dünne graue Linien auf der Bedeckungskarte gezeichnet. Sie zeigen die Stellen auf der Erde an, wo der Zielstern zum Bedeckungszeitpunkt eine Höhe von 0 Grad hat, d.h. auf- bzw. untergeht." />
+
+  <T name="AdvancedForm.OccMaps.cbSynchroneLines"
+	   english="Draw synchrones at enter/leave moments"
+	   translated="Zeiche Schatteneintritt/austritt" />
+
+  <T name="AdvancedForm.OccMaps.lblSynchrones"
+		 english="When selected, thin blue lines will be drawn on the occultation maps to show the shadow front at the moments of the asteroid shadow fully entering and beginning to leave the earth, assuming a spherical asteroid shape."
+		 translated="Bei Auswahl dieser Option werden dünne blaue Linien auf der Bedeckungskarte gezeichnet. Sie zeigen die Stelle, wo der Schatten, bezogen auf die spärische Form,  die Erde vollständig erreicht bzw. verlässt." />
+
+  <T name="AdvancedForm.Thresholds.lblWarning"
+	   english="Event properties that exceed the specified thresholds will be displayed in red:"
+	   translated="Parameter, die eingestellte Warnschwellen übertreffen, in Rot anzeigen:" />
+
+  <T name="AdvancedForm.Thresholds.lblMaxDur"
+	   english="Max duration is less than"
+	   translated="Maximale Dauer ist kürzer als" />
+
+  <T name="AdvancedForm.Thresholds.lblMagnDrop"
+    english="Magnitude drop is less than"
+    translated="Abnahme Magnitude ist weniger als" />
+
+  <T name="AdvancedForm.Thresholds.lblErrInTime"
+   english="Error in time is greater then"
+   translated="Fehler in Zeit ist größer als" />
+
+  <T name="AdvancedForm.Thresholds.lblMoonDistance"
+    english="Moon distance is less than"
+    translated="Monddistanz ist kleiner als" />
+
+  <T name="AdvancedForm.Thresholds.lblStarAltitude"
+    english="Star altitude is less than"
+    translated="Sternhöhe ist niedriger als" />
+
+  <T name="AdvancedForm.Thresholds.lblStarMagn"
+    english="Star is fainter than"
+    translated="Stern ist schwächer als" />
+
+  <T name="AdvancedForm.Colours.lblShadow"
+    english="Asteroid shadow"
+    translated="Asteroidenschatten" />
+
+  <T name="AdvancedForm.Colours.lblSigma"
+    english="1-Sigma zone"
+    translated="1-Sigma Zone" />
+
+  <T name="AdvancedForm.Colours.lblCenter"
+    english="Center line"
+    translated="Zentrallinie" />
+
+  <T name="AdvancedForm.Colours.lbl10Paths"
+    english="Center line"
+    translated="Zentrallinie" />
+
+  <T name="AdvancedForm.Colours.lblStar"
+    english="Star above horizon"
+    translated="Stern über Horizont" />
+
+  <T name="AdvancedForm.Colours.lblSun"
+     english="Sun above horizon"
+     translated="Sonne über Horizont" />
+
+  <T name="AdvancedForm.Colours.lblStation"
+     english="Announced station"
+     translated="Gemeldete Stationen" />
+
+  <T name="AdvancedForm.Colours.lblPositive"
+    english="Reported positive"
+    translated="Positiv gemeldet" />
+
+  <T name="AdvancedForm.Colours.lblMiss"
+    english="Reported miss"
+    translated="Negativ gemeldet" />
+
+  <T name="AdvancedForm.Colours.lblFail"
+    english="Reported fail to observe"
+    translated="Misslungene Beobachtungen" />
+
+  <T name="AdvancedForm.Colours.lblNewBckg"
+    english="New events background"
+    translated="Hintergrund Ereignis neu" />
+
+  <T name="AdvancedForm.Colours.lblAllBckg"
+    english="All events background"
+    translated="Hintergrund Ereignisse" />
+
+  <T name="AdvancedForm.Misc.lblPersonalPredFolder"
+    english="Personal predictions folder"
+    translated="Ordner 'Persönliche Vorhersagen'" />
+
+  <T name="AdvancedForm.Misc.lblPersonalPredDescr"
+    english="Personal predictions is a new feature that allows you to include your own events in Occult Watcher. To do this create an occelmnt file with Occult v4 that contains the predictions you want and then copy it to the location shown below:"
+    translated="Persönliche Vorhersagen ist eine neue Option in Occult Watcher zum Einstellen Ihrer eigenen Vorhersagen. Dazu müssen Sie eine Datei 'occelmnt' mit 'Occult v4' mit Ihren Vorhersagen erstellen und in dieses Verzeichnis kopieren:" />
+
+  <T name="AdvancedForm.Misc.cbxShowOriginalPrediction"
+    english="Use old-style 'Group by Feed' mode"
+    translated="Verwende alte 'Sortiere nach Feed' Einstellung" />
+
+  <T name="AdvancedForm.Misc.lblOverwriteDescr"
+    english="In 'Group by Feed' mode normally Occult Watcher will show the elements from the most accurate prediction in the events list if there are duplicated predictions. If you want the data from the original feed prediction to the shown in the events list then check the option above."
+    translated="'Sortiere nach Feed': Wenn mehrere Vorhersagen vorliegen, zeigt Occult Watcher die Elemente der genausten Vorhersage in der Ereignisliste an. Wenn Sie die ursprünglichen Daten der Feed in der Ereignisliste sehen wollen, markieren Sie die Option oben." />
+
+  <T name="frmChooseEventColumns.clbColumns.StarMagn-Short"
+    english="Magn."
+    translated="Magn." />
+
+  <T name="frmChooseEventColumns.clbColumns.EventRank-Short"
+    english="Rank"
+    translated="Rang" />
+
+  <T name="frmChooseEventColumns.clbColumns.TravelDistance-Short"
+    english="Travel Dist."
+    translated="Distanz Erdoberfl." />
+
+  <T name="Occultations.msgCreateAccount"
+    english="To be able to report your observations you need to have an OccultPlanning account.\r\nDo you want to create your account now?"
+    translated="Um Ihre Beobachtung zu melden, brauche Sie ein Benutzerkonto.\r\nMöchten Sie es jetzt erstellen?" />
+
+  <T name="Occultations.captCreateAccount"
+    english="OccultPlanning Acount Required"
+    translated="Benutzerkonto erforderlich" />
+
+  <T name="Occultations.msgAccountNeeded"
+    english="You need to configure an OccultPlanning account to be able to report observations."
+    translated="Sie müssen ein Benutzerkonto erstellen, um Beobachtungen zu melden." />
+
+  <T name="Occultations.miReportObs"
+    english="Report Observation"
+    translated="Beobachtung melden" />
+
+  <T name="frmReportObservation.Title"
+    english="Report Observation"
+    translated="Beobachtungsmeldung" />
+
+  <T name="frmReportObservation.lblEvent"
+    english="Event:"
+    translated="Ereignis:" />
+
+  <T name="frmReportObservation.lblChooseStation"
+    english="Choose your station:"
+    translated="Wählen Sie Ihre Station:" />
+
+  <T name="frmReportObservation.lvStations.0"
+    english="Station"
+    translated="Station" />
+
+  <T name="frmReportObservation.lvStations.1"
+    english="Distance"
+    translated="Entfernung" />
+
+  <T name="frmReportObservation.lvStations.2"
+    english="Report"
+    translated="Meldung" />
+
+  <T name="frmReportObservation.lblReportAs"
+    english="Report as:"
+    translated="Melde als:" />
+
+  <T name="frmReportObservation.lblDuration"
+    english="Duration:"
+    translated="Dauer:" />
+
+  <T name="frmReportObservation.lblComment"
+    english="Comment (optional):"
+    translated="Bemerkung (optional):" />
+
+  <T name="frmReportObservation.btnSendReport"
+    english="Send Report"
+    translated="Meldung abschicken" />
+
+  <T name="frmReportObservation.cbReportStatus.0"
+    english="Report a miss"
+    translated="Negative Meldung" />
+
+  <T name="frmReportObservation.cbReportStatus.1"
+    english="Clouded out"
+    translated="Bewölkt" />
+
+  <T name="frmReportObservation.cbReportStatus.2"
+    english="Failed to observe"
+    translated="Beobachtung misslungen" />
+
+  <T name="frmReportObservation.cbReportStatus.3"
+   english="Report a positive"
+   translated="Positive Meldung" />
+
+  <T name="frmReportObservation.txtNotReported"
+   english="Not Reported"
+   translated="Nicht gemeldet" />
+
+  <T name="frmReportObservation.txtMiss"
+   english="Miss"
+   translated="Negativ" />
+
+  <T name="frmReportObservation.txtOccultation"
+   english="{0} sec occultation"
+   translated="{0} sek Bedeckung" />
+
+  <T name="txtObservedOccultation"
+   english="Observed a {0} sec occultation"
+   translated="Beobachtung einer {0} sek Bedeckung" />
+
+  <T name="txtObservedAMiss"
+   english="Observed a miss"
+   translated="Negative Beobachtung" />
+
+  <T name="txtWasCloudedOrFailed"
+   english="Was clouded out or failed to observe"
+   translated="Keine Beobachtung: Wolken bzw. anderer Grund" />
+
+  <T name="AccountOptionsForm.cbxNotify2"
+   english="Notify me of site updates and observation reports"
+   translated="Benachrichtige mich über Stationsänderungen und Beobachtungsmeldungen" />
+
+  <T name="AccountOptionsForm.lblNotify2"
+   english="Notify me if other observers change their site location for my chosen events and when they report an observation. Notifications are sent by email from the last day before the event up to 7 days after the event."
+   translated="Benachrichtige mich wenn Beobachter ihre Plätze für meine ausgewählten Ereignisse ändern und wenn sie Beobachtungen melden. Benachrichtigungen erfolgen per E-Mail vom letzten Tag an vor den Ereignis bis 7 Tage nach dem Ereignis." />
+
+  <T name="frmUserInfo.cbHighestPrivacy"
+   english="Use extra site location privacy"
+   translated="Beobachtungsposition mehr streuen" />
+
+  <T name="frmUserInfo.lblHighestPrivacy"
+   english="Others will see your announced site positions between 3 and 5 km away from their real location. Standard privacy is 1 to 2 km away. Enabling this setting may affect coordination as other may see you at a different chord as a result."
+   translated="Wenn aktiviert, sehen andere Beobachter Ihre Stationsposition ca. 3 bis 5 km entfernt von Ihrer wahren Position. Standardstreuung ist 1 bis 2 km. Die größere Steuung kann die Koordination der Beobachtungen negativ beeinflussen." />
+
+  <T name="GoogleMap.txtCurrentSelection-2"
+   english="Your currently selected site coordinates are: {0}, {1}. {2}.{3}Right-click on the map to select a different site or click 'Enter station Info' to announce this site as your observing location."
+   translated="Ihre derzeitigen gewählten Beobachtungskoordinaten sind: {0}, {1}. {2}.{3} Rechtsklicken Sie auf der Karte, um einen anderen Ort zu wählen oder klicken Sie auf 'Eingabe Stationsdaten', um diese Position als Ihren Ort zu melden." />
+
+  <T name="GoogleMap.txtCurrentSelection-2a"
+   english="The site is {0} from the central line"
+   translated="Diese Station ist {0} von der Zentrallinie entfernt" />
+
+  <T name="GoogleMap.txtCurrentSelection-2b"
+   english="The star is below the horizon for this site"
+   translated="Der Stern ist an dieser Station unter dem Horizont" />
+
+  <T name="frmConfirmSite.errStarBelowHorizon"
+   english="The occulted star is below the horizon for your chosen site '{0}'.\r\n\r\nYou cannot announce this station. Please choose a different site."
+   translated="Der Zielstern ist an Ihrem gewählten Ort unter dem Horizont '{0}'.\r\n\r\nSie können diese Station nicht anmelden. Wählen Sie einen anderen Ort." />
+
+  <T name="frmConfirmSite.lblEvent"
+   english="Event:"
+   translated="Ereignis:" />
+
+  <T name="frmConfirmSite.lblFeed"
+   english="Feed:"
+   translated="Feed:" />
+
+  <T name="frmConfirmSite.lblSiteLocation"
+   english="Site Location:"
+   translated="Beobachtungsort:" />
+
+  <T name="StationSort.lvStations.4"
+   english="Email"
+   translated="E-Mail" />
+
+  <T name="StationSort.lvStations.7"
+   english="Own Long/Lat"
+   translated="Eigene Länge/Breite" />
+
+  <T name="StationSort.lvStations.8"
+   english="Observation report"
+   translated="Beobachtungsmeldung" />
+
+  <T name="StationSort.btnVisibleColumns"
+   english="Visible Columns"
+   translated="Angezeigte Spalten" />
+
+  <T name="OptionsForm.cbxStreetView"
+   english="Enable 'Street View'"
+   translated="'Street View' an" />
+
+  <T name="GoogleMap.txtClickForStreetView"
+   english="Left click on the map to enter a street view mode. Then click on the street view marker to open up the street view window."
+   translated="Klicken Sie links auf der Karte um 'Street View' zu starten. Dann klicken Sie auf das 'Street View' Symbol, es öffnet sich das 'Street View' Fenster." />
+
+  <T name="Occultations.txtNotOnEarth"
+   english="(not on Earth)"
+   translated="(nicht auf der Erdoberfläche)" />
+
+  <T name="OptionsForm.btnSavedSites"
+   english="Sites"
+   translated="Stationen" />
+
+  <T name="OptionsForm.msgConfirmSavedHomeSiteUpdate"
+   english="Do you also want the coordinates of the saved site '{0}' to be updated?"
+   translated="Möchten Sie auch die Koordinaten des gespeicherten Ortes '{0}' aktualisieren?" />
+
+  <T name="OptionsForm.msgConfirmUpdateHomeSite"
+   english="Do you also want to update the coordintes of your home site with the updated coordinates for the '{0}' site?"
+   translated="MÖchten Sie die Koordinaten ihrer Heimatstation mit den Koordinaten von '{0}' aktualisieren?" />
+
+  <T name="OptionsForm.msgHomeSiteNameWarning"
+   english="Having a site called '{0}' is strongly discouraged! This name is reserved to be used as a referrence to your currently selected coordinates in OccultWatcher. Do you wish to keep the name '{0}' for this saved site anyway?"
+   translated="Eine Station mit der Bezeichnung '{0}' wird nicht empfohlen! Die bezeichnung ist reserviert als Referenzpunkt für Ihre derzeitigen Koordinaten in Occult Watcher. Möchten Sie die Bezeichnung trotzdem beibehalten?" />
+
+
+  <!-- OccultWatcher 3.0 beta 5 Resources -->
+
+  <T name="OptionsForm.cbxColorScheme.3"
+	   english="Custom"
+	   translated="Benutzer" />
+
+  <T name="Occultations.msgNeedInternet1"
+	   english="You need an active internet connection to view the details on the web."
+	   translated="Sie brauchen eine offene Internetverbindung, um die Details anzusehen." />
+
+  <T name="Occultations.msgNeedInternet2"
+	   english="You need an active internet connection to view the Online Map."
+	    translated="Sie brauchen eine offene Internetverbindung für die Online Karte." />
+
+  <T name="Occultations.msgNeedInternet3"
+	   english="Do you want to open up the path in Google Earth instead?"
+	   translated="Möchten Sie stattdessen den Pfad in Google Earth öffnen?" />
+
+	<T name="AdvancedForm.DataAndFilt.delOldEvents"
+		 english="Delete old events and cache"
+		 translated="Lösche alte Ereignisse und Cache" />
+
+	<T name="AdvancedForm.DataAndFilt.deleting"
+		 english="deleting ..."
+		 translated="Lösche ..." />
+
+	<T name="AdvancedForm.DataAndFilt.olderThanSize"
+		 english="Events older than {0} days size:"
+		 translated="Ereignisse älter als {0} Tage:" />
+
+	<T name="AdvancedForm.DataAndFilt.computeUsedSpace"
+		 english="Compute used space"
+		 translated="Berechne Speicherplatz" />
+
+	<T name="frmEventInfo.txtName"
+		 english="Name"
+		 translated="Name" />
+
+	<T name="frmEventInfo.txtConstellation"
+		 english="Constellation"
+		 translated="Sternbild" />
+
+	<T name="frmEventInfo.txtRA"
+		 english="RA (h)"
+		 translated="RA (h)" />
+
+	<T name="frmEventInfo.txtDE"
+		 english="DE (deg)"
+		 translated="DE (deg)" />
+
+	<T name="frmEventInfo.txtMagV"
+		 english="Mag V"
+		 translated="Mag V" />
+	
+	<T name="frmEventInfo.txtMagR"
+		 english="Mag R"
+		 translated="Mag R" />
+
+	<T name="frmEventInfo.txtAlias"
+		 english="Alias"
+		 translated="Alias" />
+
+	<T name="frmEventInfo.txtNumber"
+		 english="Number"
+		 translated="Nummer" />
+
+	<T name="frmEventInfo.txtClassification"
+		 english="Classification"
+		 translated="Klassifikation" />
+
+	<T name="frmEventInfo.txtDiscOn"
+		 english="Discovered On"
+		 translated="Entdeckt am" />
+
+	<T name="frmEventInfo.txtDiscBy"
+		 english="Discovered By"
+		 translated="Entdeckt von" />
+
+	<T name="frmEventInfo.txtDia"
+		 english="Diameter"
+		 translated="Durchmesser" />
+
+	<T name="frmEventInfo.txtRotation"
+		 english="Rotation Period"
+		 translated="Rotationsperiode" />
+
+	<T name="frmEventInfo.txtAbsMagn"
+		 english="Absolute Magnitude"
+		 translated="Absolute Magnitude" />
+
+	<T name="frmEventInfo.txtAltDesign"
+		 english="Alternate Design."
+		 translated="Alternative Bezeichnung" />
+
+	<T name="frmEventInfo.txtOrbEq"
+		 english="Orb Equinox"
+		 translated="Orb Equinox" />
+
+	<T name="frmEventInfo.txtOrbEp"
+		 english="Orb Epoch"
+		 translated="Orb Epoche" />
+
+	<T name="frmEventInfo.txtOrbAno"
+		 english="Orb Mean Anomaly"
+		 translated="Orb Mittlere Anomalie" />
+
+	<T name="frmEventInfo.txtOrbEcc"
+		 english="Orb Eccentricity"
+		 translated="Orb Exzentrizität" />
+
+	<T name="frmEventInfo.txtOrbInc"
+		 english="Orb Inclination"
+		 translated="Orb Bahnneigung" />
+
+	<T name="frmEventInfo.txtOrbNode"
+		 english="Orb Node"
+		 translated="Orb Knoten" />
+
+	<T name="frmEventInfo.txtOrbPeri"
+		 english="Orb Periapsis"
+		 translated="Orb Periapsis" />
+
+	<T name="frmEventInfo.txtOrbAxis"
+		 english="Orb Semimajor Axis"
+		 translated="Orb Große Halbachse" />
+
+	<T name="frmEventInfo.msgSuspectedDouble"
+		 english="This is a suspected double asteroid"
+		 translated="Das ist möglicherweise ein Doppelasteroid" />
+
+	<T name="frmEventInfo.msgDouble"
+		 english="This is a double asteroid"
+		 translated="Das ist ein Doppelasteroid" />
+
+	<T name="frmEventInfo.txtReference"
+		 english="Reference: {0}; {1};"
+		 translated="Referenz: {0}; {1};" />
+	
+	<T name="frmEventInfo.txtSize"
+		 english=" Size: {0};"
+		 translated=" Größe: {0};" />
+
+	<T name="frmEventInfo.txtDist"
+		 english=" Dist.: {0};"
+		 translated=" Dist.: {0};" />
+
+	<T name="frmEventInfo.txtOWID"
+		 english="OW Event Id"
+		 translated="OW Ereignis Id" />
+
+	<T name="frmEventInfo.txtOWID"
+		 english="OW Event Id"
+		 translated="OW Ereignis Id" />
+
+	<T name="frmEventInfo.txtDataFmt"
+		 english="Raw Data Format"
+		 translated="Raw Daten Format" />
+
+	<T name="frmEventInfo.txtEvTUT"
+		 english="Event Time (UT)"
+		 translated="Zeit Ereignis (UT)" />
+
+	<T name="frmEventInfo.txtRank"
+		 english="Rank"
+		 translated="Rang" />
+
+	<T name="frmEventInfo.txtMagDrop"
+		 english="Magn Drop (mag)"
+		 translated="Abnahme Mag. (mag)" />
+
+	<T name="frmEventInfo.txtMaxDur"
+		 english="Max Duration (sec)"
+		 translated="Max. Dauer (sec)" />
+
+	<T name="frmEventInfo.txtPathWidth"
+		 english="Path Width (km)"
+		 translated="Pfadbreite (km)" />
+
+	<T name="frmEventInfo.txtSigma"
+		 english="Sigma Width (km)"
+		 translated="Breite Sigma (km)" />
+
+	<T name="frmEventInfo.txtStarAlt"
+		 english="Star Altitude"
+		 translated="Sternhöhe" />
+
+	<T name="frmEventInfo.txtStarAz"
+		 english="Star Azimuth"
+		 translated="Azimut Stern" />
+
+	<T name="frmEventInfo.txtSunAlt"
+		 english="Sun Altitude"
+		 translated="Sonnenhöhe" />
+
+	<T name="frmEventInfo.txtSunDist"
+		 english="Sun Distance (deg)"
+		 translated="Distanz Sonne (deg)" />
+
+	<T name="frmEventInfo.txtMoonDist"
+		 english="Moon Distance (deg)"
+		 translated="Distanz Mond (deg)" />
+
+	<T name="frmEventInfo.txtMoonIll"
+		 english="Moon Illumination"
+		 translated="Mondlicht (%)" />
+	
+	<T name="frmEventInfo.txtErrType"
+		 english="Error Type"
+		 translated="Fehlertyp" />
+
+	<T name="frmEventInfo.txtErrS"
+		 english="Error 1-Sigma"
+		 translated="Fehler 1-Sigma" />
+
+	<T name="frmEventInfo.txtErrW"
+		 english="Error Width"
+		 translated="Fehler Breite" />
+
+	<T name="frmEventInfo.txtErrMj"
+		 english="Error Major Axis"
+		 translated="Fehler große Achse" />
+
+	<T name="frmEventInfo.txtErrMn"
+		 english="Error Minor Axis"
+		 translated="Fehler kleine Achse" />
+
+	<T name="frmEventInfo.txtErrPA"
+		 english="Error PA Major"
+		 translated="Fehler PA Major" />
+
+	<T name="frmReportObservation.errBadDuration"
+	     description =" {0} is replaced by the value entered by the user for occultation duration when reporting observation" 
+		 english="'{0}' is invalid duration"
+		 translated="'{0}' ist eine ungültige Angabe" />
+
+	<T name="AdvancedForm.DataAndFilt.lblIncludeSatelites"
+		 english="Include predictions of double asteroids which satelites may be positioned close by"
+		 translated="Vorhersagen für Doppelasteroiden mit möglichen Satelliten einbeziehen" />
+
+	<T name="AdvancedForm.OccMaps.lblGMVersion"
+		 english="GoogleMaps engine version to be used:"
+		 translated="Nutze Google Maps Programmversion:" />
+
+	<T name="AdvancedForm.OccMaps.cbDrawTerminator"
+		 english="Draw Earth terminator"
+		 translated="Zeiche Erdterminator" />
+
+	<T name="AdvancedForm.OccMaps.lblTerminator"
+		 english="When selected, thin yellow lines will be drawn on the occultation maps to show the locations on the Earth where the sun altitude is zero."
+		 translated="Diese Option zeichnet dünne gelbe Linien auf der Karte. Sie zeigen die Stellen auf der Erde, wo die Sonnenhöhe 0 Grad beträgt." />
+
+	<T name="AdvancedForm.DataAndFilt.btnDeleteOldEvents2"
+		 english="Delete old events and cache now"
+		 translated="Lösche alte Ereignisse und Cache sofort" />
+
+	<T name="AdvancedForm.DataAndFilt.lblCachedDataSize2"
+		 english="Cached data size:"
+		 translated="Cached Dateigröße:" />
+
+	<T name="frmUserInfo.pageAccount"
+		 english="User Account"
+		 translated="Benutzerkonto" />
+
+	<T name="frmUserInfo.pagePersonal"
+		 english="Observer Information"
+		 translated="Beobachterdaten" />
+
+	<T name="frmUserInfo.pagePreferences"
+		 english="Preferences"
+		 translated="Präferenzen" />
+
+	<T name="Occultations.lnkStatistics"
+		 english="View Statistics"
+		 translated="Zeige Statistiken" />
+
+	<T name="frmChooseEventColumns.clbColumns.22"
+		 english="Star Magnitude (R)"
+		 translated="Stern Magnitude (R)" />
+
+	<T name="frmChooseEventColumns.clbColumns.23"
+		 english="Sun Distance"
+		 translated="Distanz Sonne" />
+
+	<T name="C2A.Command"
+		 english="Create C2A Occultation Map"
+		 translated="Zeige C2A Bedeckungskarte" />
+
+	<T name="C2A.ConfigurationTitle"
+		 english="C2A Add-in Configuration"
+		 translated="C2A Add-in Konfiguration" />
+
+	<T name="C2A.Developer"
+		 english="C2A for Windows is developed by Philippe Deverchère"
+		 translated="C2A für Windows, entwickelt von Philippe Deverchère" />
+
+	<T name="C2A.Error001"
+		 english="X field value must be positive"
+		 translated="Wert X Feld muss positiv sein" />
+
+	<T name="C2A.Error002"
+		 english="Y field value must be positive"
+		 translated="Wert Y Feld muss positiv sein" />
+
+	<T name="C2A.Error003"
+		 english="Field size specification is incorrect. Please enter positive float numbers."
+		 translated="Spezifikation der Feldgröße ist falsch. Bitte positive Zahlen eingeben." />
+
+	<T name="C2A.Error004"
+		 english="Rotation value must be greater than -360°"
+		 translated="Wert Drehung muss größer sein als -360°" />
+
+	<T name="C2A.Error005"
+		 english="Rotation value must be smaller than 360°"
+		 translated="Wert Drehung muss kleiner sein als 360°" />
+
+	<T name="C2A.Error006"
+		 english="Field rotation specification is incorrect. Please enter a valid float number between -360 and +360."
+		 translated="Spezifikation Felddrehung ist falsch. Bitte geben Sie Werte zwischen -360 and +360 an." />
+
+	<T name="C2A.Error007"
+		 english="Time before occultation must be between -96 and +96 hours"
+		 translated="Zeit vor der Bedeckung muss zwischen -96 and +96 Stunden liegen." />
+
+	<T name="C2A.Error008"
+		 english="Time before occultation specification is incorrect. Please enter a valid float number between -96 and +96."
+		 translated="Spezifikation Zeit der Bedeckung ist falsch. Bitte geben Sie Werte zwischen -96 and +96 an." />
+
+	<T name="C2A.Error009"
+		 english="C2A for Windows executable path is invalid. Please configure it using the Add-in menu."
+		 translated="Pfad für C2A für Windows ist ungültig. Bitte im Add-In Menü konfigurieren." />
+
+	<T name="C2A.Error010"
+		 english="C2A field definition is invalid. Please configure it using the Add-in menu."
+		 translated="C2A Feld Definition ist ungültig. Bitte im Add-In Menü konfigurieren." />
+
+	<T name="C2A.Error011"
+		 english="Unable to connect to the existing instance of C2A. Please close all the C2A windows and try again."
+		 translated="Keine Verbindung zu C2A. Bitte schliessen Sie alle C2A Fenster und versuchen Sie es erneut." />
+
+	<T name="C2A.Error012"
+		 english="If C2a for Windows is not installed on your computer, you can get this free software from http://www.astrosurf.com/c2a/english/index.htm"
+		 translated="Wenn C2a für Windows nicht auf Ihrem Computer installiert ist, können Sie die Freeware unter http://www.astrosurf.com/c2a/english/index.htm erhalten." />
+
+	<T name="C2A.LabeFieldSize"
+		 english="Field Size:"
+		 translated="Feldgröße:" />
+
+	<T name="C2A.LabelAbout"
+		 english="About..."
+		 translated="Über..." />
+
+	<T name="C2A.LabelC2aPath"
+		 english="C2a for Windows Path:"
+		 translated="C2a für Windows Pfad:" />
+
+	<T name="C2A.LabelClose"
+		 english="Close"
+		 translated="Schließen" />
+
+	<T name="C2A.LabelDisplayAsteroid"
+		 english="Display Asteroid in the Field (requires asteroid orbital elements to be loaded)"
+		 translated="Asteroid im Feld anzeigen (Orbitelemente des Asteroiden müssen geladen sein)" />
+
+	<T name="C2A.LabelFieldRotation"
+		 english="Field Rotation:"
+		 translated="Felddrehung:" />
+
+	<T name="C2A.LabelFieldSymmetries"
+		 english="Field Symmetries:"
+		 translated="Feldsymmetrie:" />
+
+	<T name="C2A.LabelForceNomad"
+		 english="Force usage of the NOMAD catalog"
+		 translated="NOMAD Katalog bevorzugen" />
+
+	<T name="C2A.LabelSingleInstance"
+		 english="Use a single instance of C2A when called from Occult Watcher"
+		 translated="Bei Anfrage von Occult Watcher, einzelnen Aufruf von C2A benutzen" />
+
+	<T name="C2A.LabelSymmetryH"
+		 english="Horizontal Symmetry"
+		 translated="Horizontale Symmetrie" />
+
+	<T name="C2A.LabelSymmetryV"
+		 english="Vertical Symmetry"
+		 translated="Verticale Symmetrie" />
+
+	<T name="C2A.LabelTimeBefore1"
+		 english="Display the Field"
+		 translated="Anzeige im Feld" />
+
+	<T name="C2A.LabelTimeBefore2"
+		 english="Hours before Occultation Event"
+		 translated="Stunden vor der Bedeckung" />
+
+	<T name="C2A.LabelLinkToC2aWebSite"
+		 english="Link to the C2a Web Site"
+		 translated="Link zur C2a Web Seite" />
+
+
+	<T name="C2A.LabelLinkToOWWebSite"
+		 english="Link to get help for setting up the C2A add-in"
+		 translated="Hilfe zum Setup vom C2A add-in" />
+
+	<T name="C2A.MenuAction"
+		 english="Create C2A Occultation Map"
+		 translated="Zeige C2A Bedeckungskarte" />
+
+	<T name="C2A.ProgramName"
+		 english="C2A Add-in for Occult Watcher"
+		 translated="C2A Add-in für Occult Watcher" />
+
+	<T name="C2A.RequiredC2aVersion"
+		 english="C2A for Windows {0}"
+		 translated="C2A für Windows {0}" />
+
+	<T name="C2A.RequiredC2aVersion1"
+		 english="Required C2A version:"
+		 translated="Benötigte C2A version:" />
+
+	<T name="C2A.RequiredC2aVersion2"
+		 english="or highe"
+		 translated="oder höher" />
+	
+	<T name="C2A.Usage"
+		 english="To use the C2A Add-in, select an asteroid in the Occult Watcher list, go into the 'Add-ins' menu and select the command 'Create C2A Occultation Map'. You can also use the context menu accessible through a right click on a given asteroid in the list. This will launch automatically C2A and generate a field view of the occultation event."
+		 translated="Um das C2A Add-in zu benutzen, wählen Sie einen Asteroiden in der Occult Watcher Liste aus, gehen Sie ins 'Add-ins' Menü und klicken auf 'C2A Occultation Karte erstellen'. Sie können auch das Kontextmenü benutzen (rechts klicken auf einen Asteroiden in der Liste). C2A wird automatisch gestartet und zeigt das Sternfeld zum Zeitpunkt der Bedeckung." />
+
+	<T name="OWLH.addinName"
+		 english="OW Little Helpers"
+		 translated="OWs kleine Helfer" />
+
+	<T name="OWLH.miCopyInfoToClipboard"
+		 english="Copy Info to Clipboard"
+		 translated="In Zwischenablage kopieren" />
+
+	<T name="OWLH.miMeadeSAOStarsSearch"
+		 english="Meade SAO Stars Search"
+		 translated="Meade SAO Sternsuche" />
+
+	<T name="OWLH.txtInfoCopied"
+		 english="The following event info has been copied to the clipboard"
+		 translated="Die folgenden Ereignisinformationen sind in die Zwischenablage kopiert worden." />
+
+	<T name="OWLH.btnInserTag"
+		 english="Insert Tag"
+		 translated="Einfügen" />
+
+	<T name="OWLH.lblInfoFormat"
+		 english="Specify the string format of the info to be copied below. Use 'Insert Tag' button below to insert event information tags."
+		 translated="Spezifizieren Sie das String Format der zu kopierenden Informationen. Benutzen Sie den 'Einfügen'-Schalter, um Eigenisinformationen einzufügen." />
+
+	<T name="OWLH.btnFind"
+		 english="Find"
+		 translated="Finden" />
+
+	<T name="OWLH.errSpecifyValidNumber"
+		 english="Please enter a valid number"
+		 translated="Bitte gültige Nummer eingeben." />
+	
+	<T name="OWLH.txtSAORecordFound"
+		 english="SAO {0} exists in the Meade LX90 database.\r\n\r\nRA:{1}, DE:{2}, Mag:{3}"
+		 translated="SAO {0} gefunden in der Meade LX90 Datenbasis.\r\n\r\nRA:{1}, DE:{2}, Mag:{3}" />
+
+	<T name="OWLH.txtSAORecordNotFound"
+		 english="SAO {0} could not be found in the Meade LX90 database."
+		 translated="SAO {0} nicht gefunden in der Meade LX90 Datenbasis." />
+
+<!-- OccultWatcher 3.0 beta 6 Resources -->
+
+   <T name="frmChooseEventColumns.clbColumns.24"
+	  english="Combined magnitude"
+	  translated="Kombinierte magnitude" />
+	
+  <T name="AdvancedForm.Misc.cbxCloudCoverColour"
+		english="Show the cloud cover with colours"
+		translated="Darstellung Bewölkung in Farbe" />
+
+	<T name="AdvancedForm.Misc.lblCloudCoverColour"
+		  english="The cloud cover forecast is shown with a different colour of the submitted station markers on the shadow path graph."
+		  translated="Die Bewölkungsvorhersage für die gemeldeten Stationen wird in unterschiedlichen Farben im Pfaddiagramm angezeigt." />
+
+	<T name="StationSort.lvStations.11"
+		  english="Cloud cover forecast"
+		  translated="Vorhersage Bewölkung" />
+
+	<T name="StationSort.lvStations.11.Short"
+		  english="Cloudy"
+		  translated="Wolken" />
+
+	<T name="txtCloudCoverInfo"
+		  description="{0} will be between 0 and 100, {1} will be one of: stable, unstable or highly instable and {2} will be the name of the weather service that provides the forecast" 
+		  english="{0}% cloud cover and {1} weather forecast by '{2}'"
+		  translated="{0}% Bewölkung und {1} Wettervorhersage von '{2}'" />
+
+	<T name="txtStableWeather"
+		  english="stable"
+		  translated="stabil" />
+
+	<T name="txtUnstableWeather"
+		  english="unstable"
+		  translated="wechselhaft" />
+
+	<T name="txtHighlyUnstableWeather"
+		  english="highly unstable"
+		  translated="sehr wechselhaft" />
+
+	<!-- Event Information form resources -->
+
+	<T name="frmEventInfo.TabPages.0"
+		  english="Star"
+		  translated="Stern" />
+
+	<T name="frmEventInfo.TabPages.1"
+		  english="Asteroid"
+		  translated="Asteroid" />
+
+	<T name="frmEventInfo.TabPages.2"
+		  english="Event"
+		  translated="Ereignis" />
+
+	<T name="frmEventInfo.TabPages.3"
+		  english="Prediction Updates"
+		  translated="Updates Vorhersagen" />
+
+	<T name="frmEventInfo.lblStarDataInfo"
+		  english="Star data from Simbad &amp; VisieR"
+		  translated="Daten Stern von Simbad &amp; VisieR" />
+
+	<T name="frmEventInfo.lblJPLSmallBodyInfo"
+		  english="Asteroid data from JLP Small-Body Database"
+		  translated="Daten Asteroid von JLP Small-Body Database" />
+
+	<T name="frmEventInfo.lnkSaveOccelmnt"
+		  english="Save Occelmnt file locally"
+		  translated="Speichere Occelmnt Datei lokal" />
+
+	<T name="frmEventInfo.PredictionUpdatesGrid.0"
+		  english="Feed"
+		  translated="Feed" />
+
+	<T name="frmEventInfo.PredictionUpdatesGrid.1"
+		  english="Date Updated"
+		  translated="Datum Update" />
+
+	<T name="frmEventInfo.PredictionUpdatesGrid.2"
+		  english="Update Shift"
+		  translated="Pfadverschiebung" />
+
+	<T name="C2A.Error013"
+		  english="After closing this dialog box, a Web Browser window will bring you to the C2A Web page."
+		  translated="Wenn Sie dieses Fenster schließen, wird ein Browserfenster Sie zur C2A Webseite bringen." />
+
+	<T name="frmUserInfo.btnDelete"
+		  english="Delete Account"
+		  translated="Konto löschen" />
+
+	<T name="frmUserInfo.msgDeleteAccount"
+		  english="All existing announced stations and all personal account information saved on the server will be deleted. If you have made any observation reports they will be kept in the archive. Your observation reports may contain your station names, your name and the comments you have submitted. If you also want to delete your submitted reports as well please send a request to Hristo Pavlov at hristo_dpavlov@yahoo.com. Are you sure you want to delete your account?"
+		  translated="Alle existierende Stationen und alle persönlichen Daten des Benutzerkontos auf dem Server werden gelöscht. Etwaige Beobachtungsmeldungen werden im Archiv behalten. Die gesendeten Meldungen können Ihren Stationsnamen, Ihren Namen und Ihre Bemerkungen enthalten. Wenn Sie auch Ihre Beobachtungsmeldungen löschen wollen, kontaktieren Sie Hristo Pavlov unter hristo_dpavlov@yahoo.com. Benutzerkonto wird gelöscht. SIND SIE SICHER?" />
+
+	<T name="frmUserInfo.msgDeleteAccount2"
+		  english="This operation cannot be undone. Are you sure you want to continue?"
+		  translated="Diese Aktion kann nicht rückgänig gemacht werden. WOLLEN SIE WIRKLICH LÖSCHEN?" />
+
+	<T name="frmUserInfo.msgDeleteAccount3"
+		  english="Your account has been successfully deleted. Occult Watcher will now restart."
+		  translated="Ihr Benutzerkonto wurde erfolgreich gelöscht. Occult Watcher startet jetzt neu." />
+
+	<T name="frmUserInfo.btnChangeEmail"
+		  english="Change Email"
+		  translated="E-Mail ändern" />
+
+	<T name="ChordOffset"
+		  english="Chord Offset"
+		  translated="Abweichung Sehne" />
+
+	<!-- OccultWatcher 3.0 POST beta 6 Resources -->
+	
+	<T name="frmEventInfo.Title"
+		  english="Event Info"
+		  translated="Details Ereignis" />
+
+	<T name="AdvancedForm.Colours.lblWeather"
+		english="Weather info background"
+		translated="Hintergrund Wetterinfo" />
+
+	<T name="AdvancedForm.OccMaps.cbDrawChords"
+	   english="Draw chords"
+	   translated="Zeiche Pfadsehnen" />
+
+	<!-- OccultWatcher 3.1 beta 1 Resources -->
+
+
+	<T name="Feed.SatWatcher.Name"
+		  english="Planet Satelites (Global)"
+		  translated="Planetenmonde (Weltweit)" />
+
+	<T name="Feed.SatWatcher.Description"
+		  english="PLSAT is a list of mutual occultations and ecplises involving the satelites of Jupiter, Saturn and Uranus. The feed is maintained by Hristo Pavlov, Australia"
+		  translated="Dies ist eine Liste gegenseitiger Bedeckungen und Verfinsterungen der Monde von Jupiter, Saturn und Uranus. Diese Feed wird bereitgestellt von Hristo Pavlov, Australien." />
+
+	<T name="Feed.SatWatcher.Title"
+	  english="Planet Satelites"
+	  translated="Planetenmonde" />
+
+	<T name="SatInfoPrint.Type.Total"
+	  english="Total"
+	  translated="Total" />
+
+	<T name="SatInfoPrint.Type.Partial"
+	  english="Partial"
+	  translated="Partiell" />
+
+	<T name="SatInfoPrint.Type.Annular"
+	  english="Annular"
+	  translated="Ringförmig" />
+
+	<T name="SatInfoPrint.Type.Penumbral Eclipse"
+	  english="Penumbral Eclipse"
+	  translated="Halbschattenfinsternis" />
+
+	<T name="SatInfoPrint.Type.Miss"
+	  english="Miss"
+	  translated="kein Ereignis" />
+	
+	<T name="Occultations.txtMutualEventsInfo"
+		  english="Satelites of {0} mutual event"
+		  translated="Ereignis von Monden des {0}" />
+
+	<T name="Occultations.txtCaptionEcl"
+		  english="{0} eclipses {1}"
+		  translated="{0} verfinstert {1}" />
+
+	<T name="frmSatInfo.btnPrint"
+		  english="Print Event Info"
+		  translated="Info drucken" />
+
+	<T name="SatInfoPrint.TitleSecondPart"
+	      description = "This text is appended to 'xxx occults yyy' to form the printed form title"
+		  english="on {0} UT"
+		  translated=" am {0} UT" />
+
+	<T name="SatInfoPrint.txtMagnitudeDrop"
+		  english="Magnitude Drop"
+		  translated="Abnahme Magnitude" />
+
+	<T name="SatInfoPrint.txtEventType"
+		  english="Event Type"
+		  translated="Ereignistyp" />
+
+	<T name="SatInfoPrint.txtSeparFromPlanet"
+		  english="Separ. from Planet"
+		  translated="Abstand vom Planeten" />
+
+	<T name="SatInfoPrint.txtPlanetDiameter"
+		  english="Planet Diameter"
+		  translated="Durchmesser Planet" />
+
+	<T name="SatInfoPrint.txtRA"
+		  english="R.A."
+		  translated="R.A." />
+
+	<T name="SatInfoPrint.txtDecl"
+		  english="Decl."
+		  translated="Decl." />
+
+	<T name="SatInfoPrint.txtAltitude"
+		  english="Altitude"
+		  translated="Höhe" />
+
+	<T name="SatInfoPrint.txtAzimuth"
+		  english="Azimuth"
+		  translated="Azimut" />
+
+	<T name="SatInfoPrint.txtPenumbralStart"
+		  english="Penumbral Start"
+		  translated="Beginn Penumbral" />
+
+	<T name="SatInfoPrint.txtPartialStart"
+		  english="Partial Start"
+		  translated="Beginn Partiell" />
+
+	<T name="SatInfoPrint.txtTotalStart"
+		  english="Total Start"
+		  translated="Beginn Totale" />
+
+	<T name="SatInfoPrint.txtMidTime"
+		  english="Mid-Time"
+		  translated="Mittlere Zeit" />
+
+	<T name="SatInfoPrint.txtTotalEnd"
+		  english="Total End"
+		  translated="Ende Totale" />
+
+	<T name="SatInfoPrint.txtPartialEnd"
+		  english="Partial End"
+		  translated="Ende Partiell" />
+
+	<T name="SatInfoPrint.txtPenumbralEnd"
+		  english="Penumbral End"
+		  translated="Ende Penumbral" />
+
+	<T name="SatInfoPrint.txtErrorInTime"
+		  english="Error in Time"
+		  translated="Fehler in Zeit" />
+
+
+	<!-- OccultWatcher 3.2 beta 1 Resources -->
+
+
+	<!-- Reminder functionality -->
+
+	<T name="OptionsForm.lblReminder"
+		  english="Events Reminder"
+		  translated="Ereignis Alarm" />
+
+	<T name="OptionsForm.cbxReminder"
+		  english="Remind me"
+		  translated="Mitteilungen" />
+
+	<T name="frmReminder.lblEventTime"
+		  english="Event time:"
+		  translated="Ereigniszeitpunkt:" />
+
+	<T name="frmReminder.lblLocation"
+		  english="Location:"
+		  translated="Ort:" />
+
+	<T name="frmReminder.lblSnoozeInfo"
+		  english="Click Snooze to be reminded again:"
+		  translated="Für erneute Mitteilung,'Snooze' klicken:" />
+
+	<T name="frmReminder.btnDismiss"
+		  english="Dismiss All"
+		  translated="Alle entfernen" />
+
+	<T name="frmReminder.btnSettings"
+		  english="Settings"
+		  translated="Einstellungen" />
+
+	<T name="frmReminder.btnSnooze"
+		  english="Snooze"
+		  translated="Snooze" />
+
+	<T name="frmReminder.btnViewEvent"
+		  english="View Event"
+		  translated="Zeige Ereignis" />
+
+	<T name="frmReminder.lvEvents.0"
+		  english="Event"
+		  translated="Ereignis" />
+
+	<T name="frmReminder.lvEvents.1"
+		  english="Due in"
+		  translated="innerhalb" />
+
+	<T name="frmReminder.DueInXDays"
+		  english="{0} days"
+		  translated="{0} Tagen" />
+
+	<T name="frmReminder.DueInXHours"
+		  english="{0} hours"
+		  translated="{0} Stunden" />
+
+	<T name="frmReminder.DueInXMinutes"
+		  english="{0} minutes"
+		  translated="{0} Minuten" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.1"
+		  english="in 15 minutes"
+		  translated="in 15 Minuten" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.2"
+		  english="in 30 minutes"
+		  translated="in 30 Minuten" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.3"
+		  english="in 1 hour"
+		  translated="in 1 Stunde" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.4"
+		  english="15 minutes before the event"
+		  translated="15 Minuten vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.5"
+		  english="30 minutes before the event"
+		  translated="30 Minuten vor dem Ereignis " />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.6"
+		  english="45 minutes before the event"
+		  translated="45 Minuten vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.7"
+		  english="1 hour before the event"
+		  translated="1 Stunde vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.8"
+		  english="1.5 hours before the event"
+		  translated="1,5 Stunden vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.9"
+		  english="2 hours before the event"
+		  translated="2 Stunden vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.10"
+		  english="4 hours before the event"
+		  translated="4 Stunden vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.11"
+		  english="1 day before the event"
+		  translated="1 Tag vor dem Ereignis" />
+
+	<T name="frmReminder.cbxNewReniderTime.Items.12"
+		  english="2 days before the event"
+		  translated="2 Tage vor dem Ereignis" />
+
+	<T name="AdvancedForm.Reminder.cbxDailyReminder"
+		  english="Daily reminder"
+		  translated="Täglich erinnern" />
+
+	<T name="AdvancedForm.Reminder.lblDailyReminder"
+		  english="Remind me once a day for any My Events happening in the next 24 hours. OccultWatcher must be running at this time for the reminder to work."
+		  translated="Erinnere mich einmal am Tag für jedes Ereignis, dass innerhalb der nächsten 24 Stunden stattfindet. Für diese Funktion muss OW aktiv sein. " />
+
+	<T name="AdvancedForm.Reminder.lblRemindAt"
+	  english="Remind me at"
+	  translated="Erinnere mich um" />
+
+	<T name="AdvancedForm.Reminder.cbxIndividualReminder"
+	  english="Individual event reminder"
+	  translated="Ereignis Alarm individuell" />
+
+	<T name="AdvancedForm.Reminder.lblIndividualReminder"
+	  english="Remind me for any event in 'My Events' a fixed time before the event."
+	  translated="Erinnere für 'Meine Ereignisse' zu einer festen Zeit vor dem Ereignis." />
+
+	<T name="AdvancedForm.Reminder.lblRemindMe"
+	  english="Remind me"
+	  translated="Erinnere mich" />
+
+	<T name="AdvancedForm.Reminder.lblBeforeTheEvent"
+	  english="before the event"
+	  translated="vor dem Ereignis" />
+
+	<T name="AdvancedForm.Reminder.cbxEmailReminder"
+	  english="Email reminder"
+	  translated="Erinnerungmail" />
+
+	<T name="AdvancedForm.Reminder.lvlEmailReminder"
+	  english="Send me an email reminder to my registered Occult Planner email address. Occult Watcher doesn't have to be running at the time for the reminder to work."
+	  translated="Schicke eine Erinnerungsmail zu meiner im Benutzerkonto registrierten E-Mail Adresse. OW muss nicht aktiv sein zum Erinnerungszeitpunkt." />
+
+	<T name="AdvancedForm.Reminder.lblDaysBefore"
+	  english="day(s) before the event"
+	  translated="Tag(e) vor dem Ereignis" />
+
+	<T name="AdvancedForm.Reminder.cbxMinHrDays.0"
+	  english="minutes"
+	  translated="Minuten" />
+
+	<T name="AdvancedForm.Reminder.cbxMinHrDays.1"
+	  english="hours"
+	  translated="Stunden" />
+
+	<T name="AdvancedForm.Reminder.cbxMinHrDays.2"
+	  english="days"
+	  translated="Tage" />
+
+	<T name="AdvancedForm.Reminder.lblReminder"
+	  english="Reminder:"
+	  translated="durch" />
+
+	<T name="Reminder.errUpdating"
+	  description="Please leave the '\r\n\r\n{0}\r\n\r\n' part as it is"
+	  english="Error updating the email reminder settings on the server. There error message is: \r\n\r\n{0}\r\n\r\nPlease try again later."
+	  translated="Fehler beim Update der Erinnerungseinstellungen auf dem Server. Fehlermeldung: \r\n\r\n{0}\r\n\r\nBitte später noch einmal versuchen." />
+
+	<T name="Reminder.msgRemoveOutlook"
+	  english="You have chosen to turn off the Outlook based reminders and change them to OccultWatcher based. Do you want all reminders already added to Outlook by OccultWatcher to be deleted?"
+	  translated="Sie haben die Outlook-basierenden Erinnerungsmeldungen abgeschaltet und auf OccultWatcher Meldungen umgestellt. Möchten Sie alle bisherigen, von OccultWatcher generierten Erinnerungsmeldungen in Outlook löschen?" />
+
+
+	<!-- Enhancements to the events form -->
+
+	<T name="frmChooseEventColumns.clbColumns.25"
+	  english="Asteroid Magnitude"
+	  translated="Magnitude Asteroid" />
+
+	<T name="frmChooseEventColumns.clbColumns.26"
+	  english="Remaining Time"
+	  translated="Verbleibende Zeit" />
+
+	<T name="AdvancedForm.Planner.rbFixedSiteName"
+	  english="User defined default site names"
+	  translated="Stationsnamen" />
+
+	<T name="AdvancedForm.Planner.rbOWDefaultSiteName"
+	  english="Use default site names"
+	  translated="Stationsnamen benutzen" />
+
+	<T name="AdvancedForm.Planner.rbRememberSiteName"
+	  english="Remember and use the last submitted site name"
+	  translated="Letzten übertragenen Stationsnamen merken und benutzen" />
+
+	<T name="AdvancedForm.Planner.lblHomeSite"
+	  english="Home Site"
+	  translated="Heimatstation" />
+
+	<T name="AdvancedForm.Planner.lblMobileSite"
+	  english="Mobile Site"
+	  translated="Mobile Station" />
+
+	<T name="OptionsForm.msgBadLongitude"
+	  english="Please specify a valid longitude. e.g. 123.456; 123 45.678; 123 45 67.89; + or - are not allowed."
+	  translated="Bitte eine gültige geogr. Länge eingeben. z.B. 123.456; 123 45.678; 123 45 67.89; + oder - nicht benutzen." />
+
+	<T name="OptionsForm.msgBadLatitude"
+	  english="Please specify a valid latitude. e.g. 12.345; 12 34.56; 12 34 56.78; + or - are not allowed."
+	  translated="Bitte eine gültige geogr. Breite eingeben. z.B. 12.345; 12 34.56; 12 34 56.78; + oder - nicht benutzen." />
+
+	<T name="MainForm.msgSynchronizingDelay"
+	  english="Synchronisation sheduled in {0} min"
+	  translated="Synchronisation erfolgt in {0} min" />
+
+	<T name="Occultations.miCancelAllStations"
+	  english="Cancel All Stations"
+	  translated="Alle Stationen abmelden" />
+
+	<T name="Occultations.txtConfirmCancellingAllStations"
+	  english="Are you sure you want to cancel all {0} announced stations and remove this event from 'My Events'?"
+	  translated="Sind Sie sicher, dass Sie alle {0} gemeldeten Stationen abmelden und das Ereignis von der Listen 'Meine Ereignisse' löschen wollen?" />
+
+	<T name="Occultations.miTypeCoordinates"
+	  english="Type Site Coordinates"
+	  translated="Ortskoordinaten eingeben" />
+
+	<T name="Occultations.miAnnounceMoreSites"
+	  english="Announce More Stations"
+	  translated="Weitere Stationen melden" />
+
+	<!-- Enhancements to the observation report form -->
+
+	<T name="frmReportObservation.btnUpdateReport"
+	  english="Update Report"
+	  translated="Update Report" />
+
+	<T name="frmReportObservation.btnPrefillReport"
+	  english="Prefill Report File"
+	  translated="Report neu ausfüllen" />
+
+	<T name="frmReportObservation.cbReportStatus.0"
+	  english="Report a miss"
+	  translated="Negativ melden" />
+
+	<T name="frmReportObservation.cbReportStatus.3"
+	  english="Report a positive"
+	  translated="Positiv melden" />
+
+	<T name="frmReportObservation.cbReportStatus.4"
+	  english="No observation"
+	  translated="Keine Beobachtung" />
+
+	<T name="frmReportObservation.cbReportStatus.5"
+	  english="Observed - report to follow"
+	  translated="Beobachtet - Report folgt" />
+
+	<T name="frmReportObservation.NoObserveReason.1"
+	  english="Technical failure"
+	  translated="Technisches Problem" />
+
+	<T name="frmReportObservation.NoObserveReason.2"
+	  english="Provide own comment"
+	  translated="Eigene Bemerkungen" />
+
+	<!-- The tray menu items, which were not translated up until now -->
+
+	<T name="OccultWatcher.miOpen"
+	  english="Open"
+	  translated="Öffnen" />
+
+	<T name="OccultWatcher.miConfiguration"
+	  english="Configuration"
+	  translated="Konfiguration" />
+
+	<T name="OccultWatcher.miExit"
+	  english="Exit"
+	  translated="Schließen" />
+
+	<!-- Misc -->
+
+	<T name="OptionsForm.cbDistanceType.6"
+	  english="2-sigma zone"
+	  translated="2-sigma Zone" />
+
+	<T name="AdvancedForm.Services.lblVotableUrl"
+	  english="VisieR Url"
+	  translated="VisieR Url" />
+
+	<T name="frmEventInfo.TabPages.4"
+	  english="Previous Observations"
+	  translated="Bisherige Beobachtungen" />
+
+	<T name="frmEventInfo.ObservationsGrid.0"
+	  english="Date"
+	  translated="Datum" />
+
+	<T name="frmEventInfo.ObservationsGrid.1"
+	  english="Chords"
+	  translated="Sehnen" />
+
+	<T name="frmEventInfo.ObservationsGrid.2"
+	  english="Misses"
+	  translated="Negativ" />
+
+	<T name="frmEventInfo.txtZoomIn"
+	  description = "Means: to zoom in - press (+). Please keep upper case"
+	  english="+  ZOOM IN"
+	  translated="+  ZOOM IN" />
+
+	<T name="frmEventInfo.txtZoomOut"
+	  description = "Means: to zoom out - press (-)"
+	  english="-  ZOOM OUT"
+	  translated="-  ZOOM OUT" />
+
+
+	<T name="Occultations.msgConfirmHideEvent"
+	   description = "{0} will be replaced with the asteroid name and {1} with the star name"
+	   english="Do you want to permanently hide the selected event involving {0} and {1}? When you hide events they won't be shown again unless their prediction is updated. You can press Ctrl + Shift + Z at any time to reset all hidden events so OccultWatcher will start showing them again."
+	   translated="Möchten Sie das Ereignis {0} und {1} ständig ausblenden? Wenn Sie Ereignisse ausblenden, werden sie nicht mehr angezeigt, bis neue Vorhersagen für diese Ereignisse vorliegen. Sie können jederzeit Ctrl + Shift + Z drücken um alle ausgeblendeten Ereignisse wieder in OccultWatcher darzustellen." />
+
+	<T name="Occultations.msgResetHiddenFlag"
+	  english="If the 'hidden' flag has been set for any event, it will be reset now. Press OK to continue."
+	  translated="Ausgeblendete Ereignisse werden wieder angezeigt. Drücken Sie OK zur Bestätigung." />
+
+	<T name="OptionsForm.lblPerformance"
+	  english="Performance"
+	  translated="Schnell" />
+
+	<T name="OptionsForm.lblDetail"
+	  english="Smooth lines"
+	  translated="Linien glätten" />
+
+	<T name="GoogleMap.txtStreetView"
+	  english="Street View"
+	  translated="Street View" />
+
+	<T name="GoogleMap.txtFavoriteSites"
+	  english="Favorite Sites"
+	  translated="Eigene Stationen" />
+
+	<T name="GoogleMap.txtFavoriteMobileLocation"
+	  english="Favorite Mobile Location"
+	  translated="Eigene mobile Stationen" />
+
+	<T name="GoogleMap.msgNoFavoriteSites"
+	  english="You currently don't have favorite mobile locations defined. Create a new saved site from the Configurations form and check the 'Favorite Mobile Location' checkbox or right click on an announced station in the main form to add a favorite mobile location."
+	  translated="Sie haben keine eigene mobile Stationen definiert. Erstellen Sie eine neue Station unter 'Konfiguration' und markieren Sie 'Eigene mobile Stationen' oder rechtsklicken Sie auf eine gemeldete Station im Verzeichnis, um eine eigene mobile Station hinzuzufügen. " />
+
+	<T name="GoogleMap.txtClickForMore"
+	  english="Click for more options"
+	  translated="Klicken für mehr Optionen" />
+
+	<T name="GoogleMap.txtRightClickForMore"
+	  english="Right-click for more options"
+	  translated="Rechtsklicken für mehr Optionen" />
+
+	<T name="GoogleMap.txtObserveFromFavorite"
+	  description="Don't add space betwen {0} and 'here' and 'here' and {1}"
+	  english="To announce a station at this location click {0}here{1}"
+	  translated="Um hier eine Station zu melden, klicken Sie {0}hier{1}" />
+
+	<T name="GoogleMap.txtDeleteFavorite"
+	  description="Don't add space betwen {0} and 'here' and 'here' and {1}"
+	  english="To delete this location from your favorites click {0}hier{1}"
+	  translated="Um die Station aus der eigenen Liste zu löschen, klicken Sie {0}hier{1}" />
+
+	<T name="GoogleMap.msgConfirmDeleteFavorite"
+	  english="Do you want to delete '{0}' from your favorite mobile locations?"
+	  translated="Möchten Sie '{0}' aus den eigenen mobilen Stationen löschen ?" />
+
+	<T name="GoogleMap.msgAddToFavorites"
+	  english="Add '{0}' to my favorite mobile locations"
+	  translated="'{0}' zu eigenen mobilen Stationen hinzufügen" />
+
+	<T name="Feed.LinOccult.Name"
+	  english="LinOccult Personal Predictions"
+	  translated="LinOccult Persönliche Vorhersagen" />
+
+	<T name="Feed.LinOccult.Description"
+	   description="{0} will be replaced with the location on the hard disk where to copy the prediction file to"
+	   english="LinOccult Personal Predictions are calculated and distributed by Andrey Plekhanov. You need to request your personal predictions from Andrey who is contactable by email on andyplekhanov@gmail.com and then copy the unzipped text file he will send you to '{0}'"
+	   translated="LinOccult Persönliche Vorhersagen werden von Andrey Plekhanov erstellt und verbreitet.Sie müssen Ihre persönlichen Vorhersagen von Andrey über die E-Mail Adresse andyplekhanov@gmail.com anfordern. Die entpackte Textdatei, die Sie von ihm erhalten, kopieren Sie nach '{0}'" />
+
+  <!-- OccultWatcher 3.3 beta 1 Resources -->
+
+  <T name="Occultations.miExportToExcel"
+		english="Export All Events to Excel"
+		translated="Exportiere alle Ereignisse nach Excel" />
+
+  <T name="OptionsForm.tabGoogleMaps"
+		english="Google Maps"
+		translated="Google Maps" />
+
+  <T name="OptionsForm.tabPersonalPredictions"
+		english="Personal Predictions"
+		translated="Persönliche Vorhersagen" />
+
+  <T name="AdvancedForm.PersPred.lblPersonalPredictionsUpdateMode"
+		english="Personal predictions update mode"
+		translated="Update für persönliche Vorhersagen" />
+
+  <T name="AdvancedForm.PersPred.rbUpdateModeAppend"
+		english="Append and Update"
+		translated="Anhängen und updaten" />
+
+  <T name="AdvancedForm.PersPred.rbUpdateModePurge"
+		english="Purge and Create"
+		translated="Löschen und neu erstellen" />
+
+  <T name="AdvancedForm.PersPred.lblPredictionsOverwrite"
+		english="Personal predictions overwrite"
+		translated="Vorrang für persönliche Vorhersagen " />
+
+  <T name="AdvancedForm.PersPred.lblPredictionsOverwriteDescr"
+		english="OccultWatcher uses its own rules when deciding for duplicated predictions which prediction will be used as the 'best' available. You can overwrite those rules but if you do so, you won't be able to share your personal predictions with others."
+		translated="Bei mehreren Vorhersagen für ein Ereignis benutzt OccultWatcher eigene Regeln, um zu entscheiden, welche Vorhersage als die Beste gilt. Sie können diese Regeln aussetzen. Allerdings können sie Ihre persönlichen Vorhersagen nicht mehr mit anderen teilen." />
+
+  <T name="AdvancedForm.PersPred.cbOverwritePredMode"
+		english="Use custom rules for which feeds overwrite the personal predictions"
+		translated="Feeds durch persönliche Vorhersagen ersetzen" />
+
+  <T name="AdvancedForm.PersPred.errDirectoryNotExist"
+		english="The directory {0} does not exist."
+		translated="Verzeichnis {0} existiert nicht." />
+
+
+  <T name="AdvancedForm.GM.lblTelescopeCursor"
+		english="Observer Station Cursor"
+		translated="Stationscursor" />
+
+
+  <T name="AdvancedForm.GM.lblPathAndChordLines"
+		english="Path and Cord Lines"
+		translated="Pfadlinien und Sehnen" />
+
+
+  <T name="AdvancedForm.GM.lblPathLines"
+		english="Path Lines"
+		translated="Pfadlinien" />
+
+
+  <T name="AdvancedForm.GM.lblChordLines"
+		english="Chord Lines"
+		translated="Sehnen" />
+
+  <T name="AdvancedForm.GM.lbl1SigmaLines"
+		english="1 Sigma Lines"
+		translated="1 Sigma Linien" />
+
+  <T name="AdvancedForm.GM.lbl2SigmaLines"
+  english="2 Sigma Lines"
+  translated="2 Sigma Linien" />
+
+  <T name="AdvancedForm.GM.lbl3SigmaLines"
+  english="3 Sigma Lines"
+  translated="3 Sigma Linien" />
+
+  <T name="AdvancedForm.GM.cbxCursorType.0"
+  english="Classic"
+  translated="Klassisch" />
+
+
+  <T name="AdvancedForm.GM.cbxCursorType.1"
+english="Slim"
+translated="klein" />
+
+
+  <T name="AdvancedForm.GM.cbxCursorType.2"
+english="Custom Images"
+translated="Eigenes Symbol" />
+
+
+  <T name="AdvancedForm.GM.cbxLinesType.0"
+english="No Draw"
+translated="Nicht gezeichnet" />
+
+  <T name="AdvancedForm.GM.cbxLinesType.1"
+english="Thin"
+translated="Dünn" />
+
+  <T name="AdvancedForm.GM.cbxLinesType.2"
+english="Medium"
+translated="Mittel" />
+
+  <T name="AdvancedForm.GM.cbxLinesType.3"
+english="Thick"
+translated="Breit" />
+
+
+  <T name="Feed.NAmer.Name"
+english="North America Low Probability Events"
+translated="North America Low Probability Events" />
+
+
+  <T name="Feed.NAmer.Description"
+english="North America low probability asteroid occultations calculated using Occult C# by Brad Timerson."
+translated="North America low probability asteroid occultations werden berechnet von Brad Timerson mit Occult C#." />
+
+
+  <T name="Feed.TNO.Description-NEW"
+english="TNO Extras is a list of asteroid predictions involving Trans Neptunian Objects and stars brighter than mag 15. The search is conducted using OccultV4, the latest astorb and NOMAD. Since May 2010 the feed also includes predictions computed by Bruno Sicardi and the Rio Team. The feed is maintained by Dave Gault, Australia"
+translated="Die TNO Ereignisse sind eine Liste von Vorhersagen bezüglich Trans Neptunian Objects (TNO) und Sternen heller als 15 mag. Die Suche wird mit Occult V4, den letzten astorb-Daten und NOMAD durchgeführt. Seit Mai 2010 beinhaltet die Feed auch Vorhersagen von Bruno Sicardi und dem Rio Team. Diese Feed wird von Dave Gault, Australien, bereit gestellt." />
+
+
+  <T name="Occultations.miEditOwnSite"
+english="Edit site position - '{0}'"
+translated="Beobachtungsposition bearbeiten - '{0}'" />
+
+
+  <T name="Occultations.miRenameOwnSite"
+english="Rename site - '{0}'"
+translated="Station umbenennen - '{0}'" />
+
+  <T name="Occultations.miDeleteOwnSite"
+english="Delete site - '{0}'"
+translated="Station löschen - '{0}'" />
+
+  <T name="frmRenameSite.Title"
+english="Rename Site"
+translated="Station umbenennen" />
+
+  <T name="frmRenameSite.lblOldName"
+english="Old Site Name"
+translated="Alter Stationsname" />
+
+  <T name="frmRenameSite.lblNewName"
+english="New Site Name"
+translated="Neuer Stationsname" />
+
+  <T name="AdvancedForm.Thresholds.lblStarAltitudeGreater"
+english="Star altitude is greater than"
+translated="Sternhöhe ist höher als"/>
+  
+  <T name="Feed.OWEvents.Name"
+english="Planned Observations (Global)"
+translated="Geplante Beobachtungen (weltweit)" />
+
+  <T name="Feed.OWEvents.Description"
+english="Planned Observations are all events for which someone has already announced
+a station. The events could be from any feed even if you are not subscribed
+for it. Personal predictions are not included by default but could be
+enabled if you right click and choose 'Properties'."
+translated="Planned Observations sind alle Ereignisse für die jemand bereits eine
+Station gemeldet hat. Diese Ereignisse können von jeder Feed kommen, auch
+wenn Sie nicht markiert haben. Persönliche Vorhersagen sind standardmäßig
+nicht einbezogen, können aber aktiviert werden. Dazu rechtsklicken und
+'Properties' auswählen." />
+
+  <T name="Feed.TT14.Name"
+english="Trans-Tasman Lower Magnitude Events"
+translated="Trans-Tasman Ereignisse " />
+  
+  <T name="Feed.TT14.Description"
+english="Trans-Tasman events involving asteroids bigger than 20km, magnitude drop
+larger than 0.2, duration longer than 5 sec, stars up to mag 14. Maintained
+by Dave Gault, Australia."
+translated="Trans-Tasman Ereignisse berücksichtigen Asteroiden größer als 20 km, eine
+Abnahme der Magnitude von mehr als 0.2, eine Dauer länger als 5 sek und
+Sterne bis zu 14 mag. Bereitgestellt von Dave Gault, Australien." />  
+
+
+  <T name="MainForm.btnHelp.miAcceptBetaUpdates"
+english="Accept Beta Version Updates"
+translated="Updates von Beta Versionen akzeptieren" />
+
+
+  <!-- Update 2013 - July -->
+  <T name="AdvancedForm.tabInstrMag"
+english="Magnitudes Instrumentales"
+translated="Instrumentenbedingte Magnituden" />
+  
+  <T name="AdvancedForm.InstrMag.lblCameraModel"
+english="Camera Model"
+translated="Kamera" />
+
+  <T name="AdvancedForm.InstrMag.lblInstrCameraDescr"
+english="Calculate instrumental magnitudes and instrumental magnitude drops for the following camera model:"
+translated="Berechne Magnituden und Abnahme von Magnituden instrumentenbedingt für diese Kamera:" />
+
+  <T name="AdvancedForm.InstrMag.llblTransformMoreInfo"
+     description="{0} will be either 'Prediction' (see 'frmEventInfo.txtMagTypePrediction') or the corresponding camera model"
+     english="Transformations for {0} - More Info"
+     translated="Umrechnung für {0} - Mehr Info" />
+
+  <T name="AdvancedForm.InstrMag.lblAcquiringMagnitudes"
+english="Acquiring the colour magnitudes of the star from:"
+translated="Quelle der Magnituden für einzelne Farbkanäle:" />
+
+  <T name="AdvancedForm.InstrMag.rbOnline"
+english="VizieR (online)"
+translated="VizieR (online)" />
+
+  <T name="AdvancedForm.InstrMag.rbLocalUCAC4"
+english="Local UCAC4 catalogue located at"
+translated="Pfad für lokalen UCAC4 Katalog" />
+
+  <T name="AdvancedForm.InstrMag.lblCalculatedValuesNote"
+english="The calculated values will be displayed on the event details panel."
+translated="Die berechneten Werte werden unter Details Ereignis -> Magnituden dargestellt." />
+
+  <T name="AdvancedForm.InstrMag.lblLimitingMagWarning"
+english="NOTE: The real limiting magnitude of what can be reliably observed as occultation is at least 1 magnitude brighter than the limiting magnitude of your video record."
+translated="HINWEIS: Die reale Grenzgröße, die eine verläßliche Beobachtung gewährleistet, ist mindestens eine Magnitude heller als die Grenzgröße der Videoaufnahme." />
+
+  <T name="AdvancedForm.InstrMag.cbxEnableQuickDropdown"
+english="Allow Quick Change"
+translated="Schellen Wechsel erlauben" />
+
+  <T name="AdvancedForm.InstrMag.lblQuickChangeDescr"
+english="Display a camera model drop down list on the staus bar allowing to change quickly the currently selected camera."
+translated="Zeigt eine Kameraliste als Dropdown-Menü in der Statusleiste an. Erlaubt schnellen Wechsel zwischen verschiedenen Kameramodellen." />
+
+  <T name="AdvancedForm.InstrMag.cbxProvideMagsToAddins"
+english="Enabled for Add-ins"
+translated="Für Add-ins verwenden" />
+     
+  <T name="AdvancedForm.InstrMag.lblProvideMagsToAddins"
+english="Add-ins that make use of combined magnitudes and magnitude drops (such as the C2A Add-in) will be given instrumental magnitudes."
+translated="Kompatible Add-ins (z.B. C2A-Add-In) verwenden die instumentenbedingten Magnituden." />
+  
+  <T name="AdvancedForm.InstrMag.errDirectoryNotUCAC4Path"
+english="Cannot find UCAC4 catalogue at {0}"
+translated="UCAC4 Katalog nicht gefunden unter {0}" />
+
+  <T name="MainForm.StatusBar.tsbCameraType"
+english="Camera Type: {0}"
+translated="Kamera: {0}" />
+
+  <T name="MainForm.StatusBar.CameraTypeNotSet"
+english="Not Set"
+translated="nicht bestimmt" />
+
+  <T name="frmEventInfo.TabPages.5"
+english="Magnitudes"
+translated="Magnituden" />
+
+  <T name="frmEventInfo.txtMagTypePrediction"
+english="Prediction"
+translated="Vorhersage" />
+
+  <T name="frmEventInfo.txtInstrStarMag"
+english="Star Mag ({0})"
+translated="Stern Mag ({0})" />
+
+  <T name="frmEventInfo.txtInstrAsteroidMag"
+english="Asteroid Mag ({0})"
+translated="Asteroid Mag ({0})" />
+
+  <T name="frmEventInfo.txtInstrCombinedMag"
+english="Combined Mag ({0})"
+translated="Kombinierte Mag ({0})" />
+
+  <T name="frmEventInfo.txtInstrMagDrop"
+english="Mag Drop ({0})"
+translated="Mag Abnahme ({0})" />
+
+  <T name="frmEventInfo.txtLCDBRevision"
+english="LCDB Revision"
+translated="LCDB Revision" />
+
+  <T name="frmEventInfo.txtRotationPeriod"
+english="Rotation Period (hours)"
+translated="Rotationsperiode (Stunden)" />
+
+  <T name="frmEventInfo.txtAmplitudeMin"
+english="Amplitude Min"
+translated="Amplitude Min" />
+
+  <T name="frmEventInfo.txtAmplitudeMax"
+english="Amplitude Max"
+translated="Amplitude Max" />
+
+  <T name="AdvancedForm.Thresholds.lblMagnDropErrorPercentage"
+english="Error in magn. drop is bigger than"
+translated="Fehler in Magn. Abnahme ist größer als" />
+
+  <T name="Feed.IBEROC.Name"
+english="IBEROC (SW Europe, NW Africa)"
+translated="IBEROC (SW Europa, NW Afrika)" />
+
+  <T name="Feed.IBEROC.Description"
+english="This source aims to collect all kinds of occultations that happen on the Iberian Peninsula, Balearic and Canary Islands. As a result this includes: Spain, Portugal and some countries of NW Africa. The feed is maintained by Carlos Perelló."
+translated="Bedeckungen aller Art auf der Iberischen Halbinsel, den Balearen und den Kanarischen Inseln. Die Vorhersagen umfassen Spanien, Portugal und einige Länder im Nordwesten Afrikas. Feed von Carlos Perelló." />
+
+  <T name="frmEventInfo.txtDiameter"
+english="Diameter"
+translated="Durchmesser Asteroid" />
+
+  <T name="frmEventInfo.txtStellarDiameter"
+english="Stellar diameter"
+translated="Durchmesser Stern" />
+
+  <T name="Feed.AOACM.Name"
+english="AOACM Occultations"
+translated="AOACM Occultations" />
+
+  <T name="Feed.AOACM.Description"
+english="Asociación de Observatorios Argentinos de Cuerpos Menores - Ocultaciones para Argentina."
+translated="Asociación de Observatorios Argentinos de Cuerpos Menores - Ocultaciones para Argentina." />
+
+  <T name="Feed.UKOCL.Name"
+english="UKOCL (United Kingdom &amp; Ireland)"
+translated="UKOCL (United Kingdom &amp; Ireland)" />
+
+  <T name="Feed.UKOCL.Description"
+english="This feed collects occultation events for the United Kingdom and Ireland. Many of the predictions will also cross mainland Europe and/or Scandinavia. The feed is maintained by John Talbot."
+translated="This feed collects occultation events for the United Kingdom and Ireland. Many of the predictions will also cross mainland Europe and/or Scandinavia. The feed is maintained by John Talbot." />
+
+  <T name="Feed.CometOcc.Name"
+english="Comet Occultations (Global)"
+translated="Comet Occultations (Global)" />
+
+  <T name="Feed.CometOcc.Description"
+english="Comet Occultations is a list of occultations involving comets. The feed is maintained by Carlos Perelló."
+translated="Comet Occultations is a list of occultations involving comets. The feed is maintained by Carlos Perelló." />
+  
+  <T name="Feed.LuckyStar.Name"
+english="Lucky Star Events (Global)"
+translated="Lucky Star Events (Global)" />
+
+  <T name="Feed.LuckyStar.Description"
+english="Lucky Star is a list of events produced by the 'Lucky Star' project - an ERC Advanced Grant led by Bruno Sicardy at Paris Observatory / Univ. Pierre et Marie Curie. The predictions are converted into OW format by Dave Gault, Australia, www.kuriwaobservatory.com"
+translated="Lucky Star is a list of events produced by the 'Lucky Star' project - an ERC Advanced Grant led by Bruno Sicardy at Paris Observatory / Univ. Pierre et Marie Curie. The predictions are converted into OW format by Dave Gault, Australia, www.kuriwaobservatory.com" />
+  
+  <T name="Feed.RioSatellites.Name"
+english="Rio Satellites Events (Global)"
+translated="Rio Satellites Events (Global))" />
+
+  <T name="Feed.RioSatellites.Description"
+english="Rio Satellites is a list of events produced by the 'RIO' team. The predictions are converted into OW format by Dave Gault, Australia, www.kuriwaobservatory.com"
+translated="Rio Satellites is a list of events produced by the 'RIO' team. The predictions are converted into OW format by Dave Gault, Australia, www.kuriwaobservatory.com" />
+
+  <T name="Feed.ITALOccult.Name"
+english="ITALOccult (Italy and Canton Ticino - Switzerland)"
+translated="ITALOccult (Italy and Canton Ticino - Switzerland)" />
+
+  <T name="Feed.ITALOccult.Description"
+english="This feed provides the predictions of  occultations that cover Italy and the Canton Ticino (Switzerland). The orbital elements are taken from the AstDyS2 database maintained at the University of Pisa. The feed is edited by Gruppo Astrofili Massesi (info@italoccult.it)"
+translated="This feed provides the predictions of  occultations that cover Italy and the Canton Ticino (Switzerland). The orbital elements are taken from the AstDyS2 database maintained at the University of Pisa. The feed is edited by Gruppo Astrofili Massesi (info@italoccult.it)" />
+
+</OWTranslation>
