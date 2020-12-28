@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Which software is this request for**
- - Software: [e.g. OW Desktop, OWMobile (Android), OWMobile (iOS)]
+ - Software: [e.g. OW Desktop, OWMobile (Android), OWMobile (iOS), OW Cloud]
  
  **Please describe the requested feature**
  Add your description here as detailed as possible.
