@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Which software is this affecting and which version**
- - Software: [e.g. OW Desktop, OWMobile (Android), OWMobile (iOS)]
+ - Software: [e.g. OW Desktop, OWMobile (Android), OWMobile (iOS), OW Cloud]
  - Version: [OWMobile version is listed under Settings, for OW Desktop under Help -> About Occult Watcher]
 
 **Describe the bug**
